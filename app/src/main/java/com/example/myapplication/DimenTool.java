@@ -1,8 +1,5 @@
 package com.example.myapplication;
 
-import android.text.TextUtils;
-import android.util.Log;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -10,10 +7,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-
-/**
- * Created by fengjuan on 2017/10/30.
- */
 
 public class DimenTool {
     public final static int defaultDp = 360;

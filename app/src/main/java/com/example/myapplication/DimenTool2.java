@@ -12,6 +12,11 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * Date: 2020/12/30 14:17
+ * Author: hans yang
+ * Description: 批量资源整合工具类，并且生成不同sw*文件，适配不同机型
+ */
 public class DimenTool2 {
 
     //S801    8寸  1920X1440，  1.333333333333333   300ppi    系统设定 300dpi
