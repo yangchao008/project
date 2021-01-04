@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setting_handmodel_margin_top">40dp</dimen>
+    <dimen name="setting_handmodel_thumb_margin_top">60dp</dimen>
+    <dimen name="setting_landscapemodel_margin_top">60dp</dimen>
+    <dimen name="setting_landscapemodel_thumb_margin_top">30dp</dimen>
+
+    <dimen name="setting_read_page_sencond_padding_vertical">20dp</dimen>
+    <dimen name="setting_read_page_thumb_margin_top">10dp</dimen>
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <dimen name="wallpaper_width">182dp</dimen>
+    <dimen name="wallpaper_height">244dp</dimen>
+    <dimen name="dialog_shelf_book_item_height">562dp</dimen>
+    <dimen name="font_size_faq_question">23sp</dimen>
+    <dimen name="font_size_faq_answer">23sp</dimen>
+    <dimen name="user_survey_answers_paddingLeft">4dp</dimen>
+    <dimen name="user_survey_item_paddingTop">22dp</dimen>
+
+    <dimen name="user_buy_setting_tip_marginBottom">22dp</dimen>
+
+    <dimen name="survey_item_input_width">630dp</dimen>
+    <dimen name="survey_item_input_paddingleft">8dp</dimen>
+
+    <dimen name="survey_nps_view_width">58.5dp</dimen>
+    <dimen name="survey_commit_view_margin_top">64dp</dimen>
+    <dimen name="survey_commit_view_width">639dp</dimen>
+    <dimen name="font_size_survey_twenty_six">24sp</dimen>
+    <dimen name="font_size_survey_twenty_four">22sp</dimen>
+    <dimen name="font_size_survey_twenty_two">20sp</dimen>
+    <dimen name="survey_nps_top_padding">3dp</dimen>
+    <dimen name="survey_nps_width">639dp</dimen>
+    <dimen name="survey_nps_height">56dp</dimen>
+    <dimen name="survey_nps_tips_padding_top">22dp</dimen>
+    <dimen name="survey_questions_padding_top">30dp</dimen>
+    <dimen name="survey_questions_padding_bottom">35dp</dimen>
+    <dimen name="wallpaper_gridview_horizontal_spacing">15dp</dimen>
+    <dimen name="wallpaper_gridview_vertical_spacing">80dp</dimen>
+
+
+    <dimen name="list_item_cover_width">100dp</dimen>
+    <dimen name="list_item_cover_height">133dp</dimen>
+
+
+    <dimen name="question_item_padding_top">22dp</dimen>
+
+    <dimen name="question_item_padding_bottom">22dp</dimen>
+
+
+    <dimen name="plgab_main_bottom_bar_hei">73dp</dimen>
+    <dimen name="plgab_main_bottom_bar_marginBottom">2dp</dimen>
+
+    <!-- 播放界面 -->
+    <dimen name="plgab_player_icon_text_size">16sp</dimen>
+    <dimen name="plgab_player_name_text_size">22sp</dimen>
+    <dimen name="plgab_player_autohor_text_size">20sp</dimen>
+
+
+    <dimen name="padding_7">7dp</dimen>
+
+
+
+
+    <dimen name="font_size_faq_title">26sp</dimen>
+    <dimen name="font_size_feedback_content">24sp</dimen>
+
+
+    <dimen name="font_size_feedback_satisfaction">20sp</dimen>
+    <dimen name="font_size_feedback_satisfaction_btn">18sp</dimen>
+    <dimen name="font_size_device_lock_content">24sp</dimen>
+    <dimen name="font_size_device_lock_btn">23sp</dimen>
+
+    <dimen name="font_size_audio_name">23sp</dimen>
+    <dimen name="font_size_audio_time">17sp</dimen>
+    <dimen name="font_size_audio_buy_status">20sp</dimen>
+    <!-- 字体大小 end -->
+
+
+    <dimen name="device_lock_container_padding_left">134dp</dimen>
+    <dimen name="device_lock_btn_hei">50dp</dimen>
+
+    <dimen name="font_size_wallpaper_status">18sp</dimen>
+    <dimen name="font_size_wallpaper_name">20sp</dimen>
+
+
+    <!-- 听书  -->
+    <dimen name="font_audio_book_listener_count">18sp</dimen>
+    <dimen name="player_menu_hor_padding">56dp</dimen>
+    <dimen name="player_menu_item_hei">50dp</dimen>
+    <dimen name="plgaudio_chap_list_item_hei">96dp</dimen>
+
+    <!-- 下管理相关dimens begin, add liuwenrong, 1.0, 2019/2/27 -->
+    <dimen name="program_item_padding_top_bottom">7dp</dimen>
+    <dimen name="plgaudio_font_size_book_detail_relation_name">0sp</dimen>
+    <!-- end -->
+
+    <!--common-->
+    <dimen name="plgaudio_detail_cover_height">210dp</dimen>
+    <dimen name="plgaudio_detail_cover_width">160dp</dimen>
+
+    <dimen name="plgaudio_detail_item_width">129dp</dimen>
+    <dimen name="plgaudio_detail_item_height">176dp</dimen>
+    <dimen name="plgaudio_detail_item_space_x">19dp</dimen>
+
+    <dimen name="audio_common_block_item_spaceX">30dp</dimen>
+    <dimen name="audio_font_size_ad_item_text">22sp</dimen>
+    <dimen name="audio_block_discount_price_item_spaceX">80dp</dimen>
+
+    <!-- 听书榜单 -->
+    <dimen name="audio_book_cover_width">117dp</dimen>
+    <dimen name="audio_book_cover_height">160dp</dimen>
+
+    <dimen name="audio_book_with_discount_width">106dp</dimen>
+    <dimen name="audio_book_with_discount_height">140dp</dimen>
+
+    <dimen name="plgaudio_store_three_ad_item_width">160dp</dimen>
+    <dimen name="plgaudio_store_three_ad_item_height">70dp</dimen>
+
+    <dimen name="audio_book_banner_item_margin_right">25dp</dimen>
+    <dimen name="audio_book_banner_item_margin_left">30dp</dimen>
+    <dimen name="audio_book_discount_name_width">225dp</dimen>
+
+    <dimen name="audio_store_tag_item_width">125dp</dimen>
+    <dimen name="audio_store_tag_item_height">43dp</dimen>
+
+    <dimen name="plgaudio_store_book_name_width">150dp</dimen>
+
+    <dimen name="plgaudio_book_list_padding_left">53dp</dimen>
+    <dimen name="plgaudio_book_list_divider_height">22dp</dimen>
+
+    <dimen name="plgaudio_book_item_cover_width">90dp</dimen>
+    <dimen name="plgaudio_book_item_cover_height">118dp</dimen>
+
+    <dimen name="plgaudio_fragment_audio_detail_operate_mgtp">25dp</dimen>
+    <dimen name="plgaudio_fragment_audio_detail_operate_mgbt">15dp</dimen>
+    <dimen name="plgaudio_fragment_audio_detail_operate_dw_mgtp">0dp</dimen>
+    <dimen name="plgaudio_fragment_audio_detail_operate_bt_mgbt">0dp</dimen>
+    <dimen name="plgaudio_fragment_audio_detail_free_read_tv_pdtp">10dp</dimen>
+    <dimen name="plgaudio_fragment_audio_detail_free_read_tv_pdbt">10dp</dimen>
+    <dimen name="book_detail_chap_comment_aheight">63dp</dimen>
+    <dimen name="book_detail_Sale_Text_View_size">14sp</dimen>
+
+    <dimen name="audio_book_margin_to_name">3dp</dimen>
+    <dimen name="audio_book_margin_to_desc">0dp</dimen>
+    <dimen name="audio_ad_layout_one_two_margin_left">20dp</dimen>
+    <dimen name="audio_ad_layout_one_two_margin_right">10dp</dimen>
+    <dimen name="audio_ad_layout_one_two_padding_top">20dp</dimen>
+    <dimen name="audio_ad_layout_one_two_padding_left">20dp</dimen>
+    <dimen name="audio_ad_layout_one_two_padding_right">10dp</dimen>
+
+    <dimen name="audio_category_item_divider">15dp</dimen>
+
+
+    <dimen name="audio_player_page_book_info_margin_top">76dp</dimen>
+    <dimen name="audio_player_page_book_info_margin_left">150dp</dimen>
+    <dimen name="audio_player_page_book_opts_margin_hor">50dp</dimen>
+    <dimen name="audio_player_page_book_opts_margin_ver">45dp</dimen>
+    <dimen name="audio_player_page_book_seekbar_margin_hor">76dp</dimen>
+    <dimen name="audio_player_page_book_seekbar_margin_ver">60dp</dimen>
+    <dimen name="audio_player_page_book_actions_margin_hor">120dp</dimen>
+    <dimen name="audio_player_page_book_actions_margin_ver">45dp</dimen>
+    <dimen name="audio_player_page_book_cover_width">200dp</dimen>
+    <dimen name="audio_player_page_book_cover_height">270dp</dimen>
+    <dimen name="audio_player_page_book_timer_title_margin_left">76dp</dimen>
+    <dimen name="audio_player_page_book_timer_title_margin_top">10dp</dimen>
+    <dimen name="audio_player_page_book_timer_title_margin_bottom">30dp</dimen>
+    <dimen name="audio_player_page_book_timer_child_opts_margin_hor">76dp</dimen>
+    <dimen name="audio_player_page_book_timer_child_opts_margin_ver">20dp</dimen>
+    <dimen name="audio_player_page_book_timer_child_opts_padding_ver">5dp</dimen>
+    <dimen name="audio_player_page_book_progress_width">470dp</dimen>
+    <dimen name="audio_player_page_book_progress_padding_left">40dp</dimen>
+    <dimen name="audio_player_page_book_progress_padding_right">40dp</dimen>
+
+    <dimen name="audio_bottom_selected_num_width">500dp</dimen>
+    <dimen name="audio_bottom_selected_select_msg_padding_left">40dp</dimen>
+    <integer name="audio_book_download_manager_list_count">7</integer>
+
+    <dimen name="audio_book_download_manager_title_text_size">24sp</dimen>
+    <dimen name="audio_book_download_manager_title_margin_top">15dp</dimen>
+    <dimen name="audio_book_download_manager_title_margin_bottom">5dp</dimen>
+</resources>

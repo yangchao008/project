@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="header_margin_top">69dp</dimen>
+    <dimen name="title_size">30sp</dimen>
+    <dimen name="wifi_adapter_padding_top">14dp</dimen>
+    <dimen name="wifi_row_padding_left_right">16dp</dimen>
+    <dimen name="wifi_row_padding_top_bottom">7dp</dimen>
+    <dimen name="wifi_row_value_margin_left">140dp</dimen>
+
+    <dimen name="bluetooth_icon_space">10dp</dimen>
+    <dimen name="bluetooth_adapter_padding">106dp</dimen>
+    <dimen name="bluetooth_adapter_padding_top">5dp</dimen>
+    <dimen name="bluetooth_adapter_padding_bottom">5dp</dimen>
+    <dimen name="bluetooth_adapter_item_height">73dp</dimen>
+    <dimen name="wifi_display_adapter_item_height">85dp</dimen>
+
+    <dimen name="display_use_instruction_title_padding_top">20dp</dimen>
+    <dimen name="display_use_instruction_item_padding">15dp</dimen>
+</resources>

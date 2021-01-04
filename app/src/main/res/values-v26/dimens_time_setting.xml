@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="time_setting_title">24sp</dimen>
+    <dimen name="time_setting_sub_title">22sp</dimen>
+    <dimen name="time_picker_title_text_size">22sp</dimen>
+    <dimen name="time_picker_width">50dp</dimen>
+    <dimen name="time_picker_height">300dp</dimen>
+    <dimen name="time_picker_space">50dp</dimen>
+    <dimen name="time_picker_space_2">25dp</dimen>
+    <dimen name="time_item_padding_top">25dp</dimen>
+    <dimen name="time_item_padding_bottom">20dp</dimen>
+</resources>

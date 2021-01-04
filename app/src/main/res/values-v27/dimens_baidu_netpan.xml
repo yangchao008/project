@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="baidu_netpan_download_btn_margin_top">@dimen/padding_15</dimen>
+
+    <dimen name="baidu_netpan_file_list_item_padding_top">@dimen/padding_10</dimen>
+    <dimen name="baidu_netpan_file_list_item_padding_bottom">@dimen/padding_10</dimen>
+    <dimen name="baidu_netpan_file_list_item_padding_start">@dimen/app_margin_size</dimen>
+    <dimen name="baidu_netpan_file_list_item_padding_end">@dimen/app_margin_size</dimen>
+
+    <dimen name="baidu_netpan_file_list_item_icon_width">43dp</dimen>
+    <dimen name="baidu_netpan_file_list_item_icon_height">43dp</dimen>
+    <dimen name="baidu_netpan_file_list_item_status_text_size">18sp</dimen>
+
+    <dimen name="baidu_netpan_file_list_button_text_size">20sp</dimen>
+
+    <integer name="page_count_baidu_netpan_file">7</integer>
+    <integer name="page_count_baidu_netpan_browse_file">8</integer>
+
+    <dimen name="baidu_netpan_file_image_preview_width">650dp</dimen>
+    <dimen name="baidu_netpan_file_image_preview_height">700dp</dimen>
+</resources>

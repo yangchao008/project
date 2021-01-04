@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="mine_weekly_user_font">18sp</dimen>
+  <dimen name="mine_weekly_font">26sp</dimen>
+  <dimen name="mine_weekly_user_left">24dp</dimen>
+
+</resources>

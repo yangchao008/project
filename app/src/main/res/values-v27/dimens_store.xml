@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--BookStoreBlockRecommendView 样式相关属性-->
+  <integer name="store_book_recommend_view_item_child_per_row">4</integer>
+  <dimen name="store_book_recommend_view_item_min_spacing_hor">18dp</dimen>
+  <dimen name="store_book_recommend_view_item_min_spacing_ver">47dp</dimen>
+  <integer name="store_book_recommend_view_item_max_row_count">2</integer>
+
+
+  <!--BookStoreBlockVerticalPhotoAdsView 样式相关属性-->
+  <integer name="store_book_vertical_photo_ads_item_child_per_row">5</integer>
+  <dimen name="store_book_vertical_photo_ads_item_min_spacing_hor">@dimen/photo_ad_item_space</dimen>
+  <dimen name="store_book_vertical_photo_ads_item_min_spacing_ver">20dp</dimen>
+  <integer name="store_book_vertical_photo_ads_item_max_row_count">3</integer>
+
+  <!--书城分类列表页-->
+  <dimen name="book_category_list_padding_top">20dp</dimen>
+
+  <dimen name="book_detail_margin_hor">33dp</dimen>
+  <dimen name="book_detail_relative_margin_hor">20dp</dimen>
+
+  <dimen name="book_about_item_title_margin_content">26dp</dimen>
+
+  <dimen name="store_category_head_padding_bottom">0dp</dimen>
+
+  <dimen name="store_shop_cart_item_second_margin_title">10dp</dimen>
+  <dimen name="store_shop_cart_item_third_margin_second">5dp</dimen>
+
+  <dimen name="font_book_detail_tags_size">18sp</dimen>
+
+  <dimen name="book_detail_notice_dialog_height">613dp</dimen>
+  <dimen name="shopcart_prompt_margin_top">10dp</dimen>
+</resources>

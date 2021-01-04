@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mine_page_item_height">60dp</dimen>
+
+    <dimen name="order_layout_paddingTop">17dp</dimen>
+    <dimen name="order_item_top_margin">8dp</dimen>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="ioffice_docview_read_bottom_info_page_size">18sp</dimen>
+    <dimen name="ioffice_docview_read_bottom_info_height">52dp</dimen>
+
+
+    <dimen name="ioffice_docview_font_size_20">20sp</dimen>
+    <dimen name="ioffice_docview_loading_text_fontsize">25sp</dimen>
+</resources>

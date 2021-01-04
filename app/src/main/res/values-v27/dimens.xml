@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 阅读界面顶部一级菜单中图标的margin -->
+    <dimen name="read_topbar_icon_margin">@dimen/ioffice_office_read_topbar_icon_margin</dimen>
+    <!-- 阅读界面顶部一级菜单的padding end -->
+    <dimen name="read_toolbar_padding">32dp</dimen>
+    <!-- 阅读界面顶部二级菜单的padding -->
+    <dimen name="read_toolbar_secondary_padding">@dimen/read_toolbar_padding</dimen>
+    <!-- 阅读界面顶部菜单中图标的宽度 -->
+    <dimen name="read_toolbar_icon_width">53dp</dimen>
+    <!-- 阅读界面顶部菜单中图标的高度 -->
+    <dimen name="read_toolbar_icon_height">@dimen/read_toolbar_icon_width</dimen>
+    <!-- 阅读界面顶部一级菜单中分割线的宽度 -->
+    <dimen name="read_toolbar_icon_divider_width">26dp</dimen>
+    <!-- 阅读界面顶部二级菜单中分割线的宽度 -->
+    <dimen name="read_toolbar_secondary_icon_divider_width">@dimen/read_toolbar_icon_divider_width</dimen>
+    <dimen name="read_toolbar_icon_margin">5px</dimen>
+    <!-- 阅读界面顶部二级菜单中icon的margin -->
+    <dimen name="read_toolbar_secondary_icon_margin">5px</dimen>
+    <!-- 阅读界面顶部二级菜单中icon的高度 -->
+    <dimen name="read_toolbar_secondary_height">57dp</dimen>
+    <!-- 阅读界面顶部二级菜单中icon的宽度 -->
+    <dimen name="read_toolbar_secondary_width">@dimen/read_toolbar_icon_width</dimen>
+
+    <dimen name="ioffice_office_read_titlebar_height">73dp</dimen>
+    <dimen name="ioffice_office_menu_bottom_hei">75dp</dimen>
+    <dimen name="menu_bottom_hei">@dimen/ioffice_office_menu_bottom_hei</dimen>
+    <!-- 分屏模式菜单的高度 -->
+    <dimen name="read_menu_dualpane">53dp</dimen>
+    <!-- 分屏模式分中间分割线的宽度 -->
+    <dimen name="dualpane_capture_bitmap_divider">1px</dimen>
+    <!--    水印列表对话框图片的宽高-->
+    <dimen name="ioffice_office_watermark_list_icon_width">180dp</dimen>
+    <dimen name="ioffice_office_watermark_list_icon_height">120dp</dimen>
+    <!--    水印列表对话框的宽高-->
+    <dimen name="ioffice_office_watermark_list_dialog_width">560dp</dimen>
+    <dimen name="ioffice_office_watermark_list_dialog_height">480dp</dimen>
+
+    <dimen name="ioffice_office_read_topbar_icon_margin">@dimen/read_toolbar_icon_margin</dimen>
+
+    <dimen name="setting_handmodel_toggle_margin">67dp</dimen>
+    <dimen name="setting_handmodel_toggle_drawable_padding">11dp</dimen>
+
+    <dimen name="book_shelf_more_padding">65dp</dimen>
+    <dimen name="book_shelf_more">20dp</dimen>
+    <dimen name="book_shelf_list_more">65dp</dimen>
+    <dimen name="book_shelf_top">26dp</dimen>
+
+    <dimen name="read_topbar_hei">@dimen/ioffice_office_read_titlebar_height</dimen>
+<!--    阅读界面手写橡皮擦下拉菜单中的图标margin-->
+    <dimen name="hw_topbar_icon_margin">5px</dimen>
+    <!--    阅读界面手写橡皮擦下拉菜单中的icon宽高-->
+    <dimen name="hw_menu_height">@dimen/read_toolbar_icon_height</dimen>
+    <dimen name="hw_menu_item_width">@dimen/read_toolbar_icon_width</dimen>
+    <!--    阅读界面手写橡皮擦下拉菜单中的字体-->
+    <dimen name="hw_topbar_text_size">11sp</dimen>
+    <!-- 创新PDF手写菜单图标跑 -->
+    <dimen name="ioffice_office_hw_topbar_icon_margin">@dimen/ioffice_office_read_topbar_icon_margin</dimen>
+
+    <!--tab的相关默认属性-->
+    <dimen name="tab_padding_ver">20dp</dimen>
+    <dimen name="tab_text_size">20sp</dimen>
+
+    <!--我的页面相关字体的尺寸-->
+    <dimen name="user_info_name_text_size">30sp</dimen>
+    <dimen name="user_info_desc_text_size">21sp</dimen>
+    <dimen name="user_info_name_margin_desc">8dp</dimen>
+    <dimen name="user_info_more_tag_margin">0dp</dimen>
+    <dimen name="user_avator_margin_right">13dp</dimen>
+
+    <!--用户资产信息界面-->
+    <dimen name="user_property_prop_text_size">28sp</dimen>
+    <dimen name="user_property_desc_text_size">23sp</dimen>
+    <dimen name="user_property_charge_text_size">24sp</dimen>
+    <dimen name="user_property_status_margin_name">5dp</dimen>
+    <dimen name="user_info_entrance_title_text_size">24sp</dimen>
+    <dimen name="user_tool_entrance_title_text_size">21sp</dimen>
+    <dimen name="user_info_entrance_block_text_size">20sp</dimen>
+    <dimen name="user_info_entrance_block_text_margin_img">8dp</dimen>
+    <dimen name="user_property_read_time_margin_name">5dp</dimen>
+    <dimen name="user_property_vip_to_pay_btn_height">42dp</dimen>
+    <dimen name="user_property_vip_to_pay_btn_text_size">20sp</dimen>
+
+    <!--我的VIP界面-->
+    <dimen name="mine_vip_to_pay_total_price_font_size">24sp</dimen>
+    <dimen name="mine_vip_header_view_user_name_font_size">24sp</dimen>
+    <dimen name="mine_vip_header_view_user_desc_font_size">19sp</dimen>
+    <dimen name="mine_vip_header_view_vip_privilege_font_size">20sp</dimen>
+    <dimen name="mine_vip_title_item_title_font_size">22sp</dimen>
+    <dimen name="mine_vip_title_item_desc_font_size">20sp</dimen>
+    <dimen name="mine_vip_price_item_title_font_size">25sp</dimen>
+    <dimen name="mine_vip_price_item_desc_font_size">18sp</dimen>
+    <dimen name="mine_vip_price_item_price_font_size">25sp</dimen>
+    <dimen name="mine_vip_price_item_discount_price_font_size">20sp</dimen>
+
+    <!--书架弹窗-->
+    <dimen name="dialog_note_shelf_optional_width">556dp</dimen>
+    <dimen name="dialog_note_shelf_optional_height">610dp</dimen>
+    <!-- 底部栏的字体大小 -->
+    <dimen name="font_size_bookshelf_bottombar_name">20sp</dimen>
+<!--    阅读界面底部栏的字体大小-->
+    <dimen name="font_size_read_bottom_bar">@dimen/font_size_bookshelf_bottombar_name</dimen>
+
+    <!--Alert弹窗的相关属性-->
+    <dimen name="alert_dialog_border_cornor_radius">@dimen/theme_dialog_border_corner_radius</dimen>
+    <dimen name="alert_dialog_border_width">@dimen/theme_dialog_border_width</dimen>
+    <dimen name="alert_dialog_btn_divider_width">0.5dp</dimen>
+    <dimen name="alert_dialog_btn_divider_height_hor">1dp</dimen>
+    <dimen name="shelf_grid_item_folder">1.5dp</dimen>
+
+    <!--书籍详情的相关参数-->
+    <dimen name="book_tag_dash_width">2dp</dimen>
+    <dimen name="book_tag_dash_gap">2dp</dimen>
+    <dimen name="audio_recomman_item_margin">5dp</dimen>
+
+    <!--阅读页面，长按词，下拉弹框中点击系统默认，词典弹框的宽高-->
+    <dimen name="dict_from_dialog_width">240dp</dimen>
+    <dimen name="dict_from_dialog_height">300dp</dimen>
+
+    <dimen name="reader_tts_line_width">2dp</dimen>
+    <!-- FragmentRelationBookList中的条目数 -->
+    <integer name="page_count_related_book_list">@integer/page_count_store_book_list</integer>
+    
+    
+    <dimen name="user_property_coupon_divider_padding_ver">8dp</dimen>
+    <dimen name="user_privilege_discount_margin_bottom">5dp</dimen>
+    <dimen name="user_privilege_discount_margin_top">5dp</dimen>
+
+    <dimen name="store_booklist_item_padding_bottom">3dp</dimen>
+
+    <!--我的页面间距-->
+    <dimen name="user_info_entrance_title_margin_element">15dp</dimen>
+    <dimen name="user_info_entrance_margin_top">30dp</dimen>
+    <dimen name="user_info_entrance_margin_bottom">30dp</dimen>
+
+    <!--印象笔记列表距离顶部距离-->
+    <dimen name="ever_note_list_margin_top">10dp</dimen>
+
+    <!--基类对话框的相关属性-->
+    <dimen name="base_dialog_with_title_close_margin">10dp</dimen>
+    <dimen name="base_dialog_title_text_size">24sp</dimen>
+    <dimen name="base_dialog_divider_height">0.5dp</dimen>
+    <dimen name="base_dialog_window_width">500dp</dimen>
+    <dimen name="base_dialog_notice_content_padding_ver">0dp</dimen>
+    <dimen name="base_dialog_notice_content_padding_hor">20dp</dimen>
+    <dimen name="base_dialog_notice_content_text_size">24sp</dimen>
+
+    <!--用户调查Nps视图的相关属性-->
+    <dimen name="survey_item_nps_width">40dp</dimen>
+    <dimen name="survey_item_nps_height">40dp</dimen>
+    <dimen name="survey_nps_layout_height">70dp</dimen>
+    <dimen name="survey_nps_text_bg_width">1dp</dimen>
+    <dimen name="user_survey_nps_paddingLeft">4dp</dimen>
+    <dimen name="survey_nps_text_size">24sp</dimen>
+
+    <dimen name="shelf_titlebar_margin_left">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="read_menu_hw_panel_container_height">57dp</dimen>
+    <dimen name="read_menu_hw_panel_container_divider_width">13dp</dimen>
+
+    <dimen name="note_grid_horizontal_margin">24dp</dimen>
+    <dimen name="note_grid_vertical_margin">@dimen/note_grid_horizontal_margin</dimen>
+
+    <dimen name="user_setting_physical_simbal_image_width">654dp</dimen>
+    <dimen name="user_setting_physical_simbal_image_height">684dp</dimen>
+    <dimen name="user_setting_feedback_user_question_height">400dp</dimen>
+<!--    生詞本tab高度-->
+    <dimen name="tab_height">48dp</dimen>
+    <dimen name="vocabulary_title_text_size">22sp</dimen>
+    <dimen name="vocabulary_desc_text_size">22sp</dimen>
+    <dimen name="vocabulary_translation_text_size">20sp</dimen>
+    <dimen name="vocabulary_horizontal_padding">33dp</dimen>
+
+    <dimen name="vocabulary_item_vertical_padding">16dp</dimen>
+    <dimen name="vocabulary_detail_dict_vertical_margin">32dp</dimen>
+    <dimen name="vocabulary_detail_dict_textsize">22sp</dimen>
+    <dimen name="vocabulary_detail_horizontal_margin">32dp</dimen>
+    <dimen name="vocabulary_detail_content_textsize">22sp</dimen>
+    <dimen name="vocabulary_detail_status_textsize">21sp</dimen>
+    <dimen name="vocabulary_detail_progress_textsize">20sp</dimen>
+    <dimen name="vocabulary_detail_page_indicator_margin_vertical">20dp</dimen>
+    <dimen name="vocabulary_detail_page_indicator_height">60dp</dimen>
+    <dimen name="vocabulary_list_padding_top">4dp</dimen>
+
+    <dimen name="dialog_shelf_sort_big_width">556dp</dimen>
+    <dimen name="dialog_shelf_sort_big_height">430dp</dimen>
+    <dimen name="item_shelf_sort_line_height">65dp</dimen>
+
+    <dimen name="cloud_book_option_item_width">100dp</dimen>
+    <dimen name="fm_my_notebook_tab_height">50dp</dimen>
+    <dimen name="fm_my_notebook_tab_margin_top">10dp</dimen>
+    <dimen name="fm_my_notebook_tab_margin_bottom">10dp</dimen>
+
+    <dimen name="store_category_text_size">20sp</dimen>
+
+    <dimen name="function_mine_setting_margin_top">0dp</dimen>
+
+    <dimen name="dialog_book_move_class_big_width">556dp</dimen>
+    <dimen name="dialog_book_move_class_big_height">575dp</dimen>
+
+    <dimen name="dialog_toast_theme_file_min_height">178dp</dimen>
+    <dimen name="dialog_toast_theme_text_size">24sp</dimen>
+</resources>

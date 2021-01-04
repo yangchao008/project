@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="share_bottom_desc_horizontal_margin_bottom">12dp</dimen>
+    <dimen name="share_font_size_margin">20dp</dimen>
+    <dimen name="share_font_num_top">12dp</dimen>
+    <dimen name="share_bottom_desc_horizontal_margin">0dp</dimen>
+</resources>

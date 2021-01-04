@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Base.Root.PaddingLeft">33dp</dimen>
+    <dimen name="Base.Root.PaddingRight">@dimen/Base.Root.PaddingLeft</dimen>
+
+    <dimen name="dialog_title_margin_content">0dp</dimen>
+    <dimen name="dialog_title_margin_top">40dp</dimen>
+    <dimen name="dialog_content_margin_buttom">0dp</dimen>
+    <dimen name="dialog_btn_text_size">20sp</dimen>
+    <dimen name="error_layout_icon_padding">25dp</dimen>
+
+    <!--AlertDialog弹窗的相关参数-->
+    <dimen name="prompt_dialog_width">554dp</dimen>
+    <dimen name="prompt_dialog_padding_ver">30dp</dimen>
+
+    <dimen name="prompt_dialog_self_content_padding_ver">40dp</dimen>
+</resources>

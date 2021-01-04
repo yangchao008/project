@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="plgmc_sound_record_padding_bottom">40dp</dimen>
+
+    <dimen name="plgmc_sound_record_close_btn_padding_start">@dimen/app_margin_size</dimen>
+    <dimen name="plgmc_sound_record_close_btn_padding_bottom">10dp</dimen>
+    <dimen name="plgmc_sound_record_close_btn_drawable_padding">5dp</dimen>
+    <dimen name="plgmc_sound_record_close_btn_text_size">24sp</dimen>
+
+    <dimen name="plgmc_sound_record_timer_view_width">133dp</dimen>
+    <dimen name="plgmc_sound_record_timer_view_text_size">33sp</dimen>
+    <dimen name="plgmc_sound_record_timer_view_message_text_size">16sp</dimen>
+
+    <dimen name="plgmc_sound_record_action_text_size">20sp</dimen>
+    <dimen name="plgmc_sound_record_action_margin_top">40dp</dimen>
+
+    <dimen name="plgmc_player_controller_title_max_width">320dp</dimen>
+</resources>

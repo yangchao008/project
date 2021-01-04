@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <integer name="ioffice_office_search_result_summary_length">120</integer>
+  <integer name="ioffice_office_search_item_count">8</integer>
+  <integer name="ioffice_office_catalog_item_count">6</integer>
+  <integer name="ioffice_office_bookmark_item_count">6</integer>
+  <integer name="ioffice_office_annotation_item_count">3</integer>
+
+  <integer name="ioffice_office_thumb_catalog_item_count">2</integer>
+  <integer name="read_tts_volume_single_width">40</integer>
+</resources>

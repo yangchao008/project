@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <dimen name="page_indecator_margin_bottom">16dp</dimen>
+
+
+    <dimen name="page_indecator_textSize">20sp</dimen>
+    <dimen name="eink_tool_bar_height">76dp</dimen>
+    <dimen name="dialog_auto_page_height">106dp</dimen>
+
+
+
+
+
+
+
+    <dimen name="short_cut_weightTv_height">46dp</dimen>
+
+
+
+
+
+
+    <dimen name="alert_dialog_height">380dp</dimen>
+    <dimen name="alert_dialog_width">480dp</dimen>
+
+
+    <dimen name="eink_font_size_toolbar_title">30sp</dimen>
+
+    <dimen name="eink_font_size_toolbar_meun_list">26sp</dimen>
+
+
+    <dimen name="EinkPaddingMenuTextLeft">10dp</dimen>
+
+    <dimen name="eink_font_size_search">26sp</dimen>
+
+    <dimen name="eink_popup_list_menu_item_padding_left">40dp</dimen>
+    <dimen name="eink_popup_list_menu_item_padding_right">40dp</dimen>
+    <dimen name="eink_category_item_wid">150dp</dimen>
+    <dimen name="eink_category_item_hei">60dp</dimen>
+    <dimen name="eink_page_indecator_margin_bottom">20dp</dimen>
+    <dimen name="eink_list_divider_line_height">1dp</dimen>
+    <dimen name="eink_page_indecator_textSize">22sp</dimen>
+    <dimen name="eink_dialog_auto_page_height">115dp</dimen>
+    <dimen name="eink_dialog_auto_page_et_width">130dp</dimen>
+    <dimen name="eink_toolbar_title_max_width">422dp</dimen>
+    <dimen name="eink_font_size_window_short_cut_bar_twenty">20sp</dimen>
+    <dimen name="eink_window_short_cut_bar_top_height">100dp</dimen>
+    <dimen name="eink_short_cut_bright_padding_top">30dp</dimen>
+    <dimen name="eink_short_cut_bright_paddingbottom">24dp</dimen>
+    <dimen name="eink_short_cut_weightTv_height">48dp</dimen>
+    <dimen name="eink_window_short_cut_viewProgress_margintbottom">-6dp</dimen>
+    <dimen name="eink_window_short_cut_bar_top_margin">2dp</dimen>
+    <dimen name="eink_font_size_short_cut_bright_twentyfour">24sp</dimen>
+    <dimen name="eink_short_cut_bright_height">102dp</dimen>
+    <dimen name="eink_short_cut_bright_padding_forty">40dp</dimen>
+    <dimen name="eink_short_cut_bright_padding_twenty">20dp</dimen>
+    <dimen name="eink_shelf_toolbar_no_icon_padding">68dp</dimen>
+    <dimen name="eink_base_font_size_26">26sp</dimen>
+
+    <dimen name="eink_base_font_size_30">30sp</dimen>
+    <dimen name="eink_base_image_qr_rect">260dp</dimen>
+
+
+
+
+
+
+
+
+
+    <dimen name="eink_base_bottom_frame_padding">55dp</dimen>
+
+    <dimen name="vol_item_width">14dp</dimen>
+
+    <!--文件分类页面相关属性-->
+
+
+
+
+
+
+
+
+
+
+
+    <!--文件管理界面的相关属性-->
+
+    <dimen name="file_mana_translate_file_item_text_size">20sp</dimen>
+
+</resources>

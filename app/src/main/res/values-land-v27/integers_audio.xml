@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+  <integer name="audio_download_manager_page_size">4</integer>
+  <integer name="audio_pub_book_page_size">5</integer>
+</resources>

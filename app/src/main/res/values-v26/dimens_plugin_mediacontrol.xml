@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="plgmc_sound_record_padding_bottom">50dp</dimen>
+
+    <dimen name="plgmc_sound_record_close_btn_padding_start">30dp</dimen>
+    <dimen name="plgmc_sound_record_close_btn_text_size">24sp</dimen>
+
+    <dimen name="plgmc_sound_record_timer_view_width">140dp</dimen>
+    <dimen name="plgmc_sound_record_timer_view_text_size">36sp</dimen>
+    <dimen name="plgmc_sound_record_timer_view_message_text_size">17sp</dimen>
+</resources>

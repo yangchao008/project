@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="eink_font_size_btn">26sp</dimen>
+    <dimen name="EinkListItemTextPaddingTop">12dp</dimen>
+    <dimen name="EinkListItemTextPaddingBottom">@dimen/EinkListItemTextPaddingTop</dimen>
+    <dimen name="popup_list_menu_item_padding_left">36dp</dimen>
+    <dimen name="popup_list_menu_item_padding_right">36dp</dimen>
+    <dimen name="file_mana_recent_file_sub_title_text_size">18sp</dimen>
+    <dimen name="file_mana_classic_file_item_text_size">20sp</dimen>
+    <dimen name="file_mana_recent_file_item_desc_padding_top">10dp</dimen>
+    <dimen name="file_mana_recent_file_item_desc_padding_bottom">10dp</dimen>
+    <dimen name="file_mana_recent_file_item_desc_text_size">16sp</dimen>
+    <dimen name="file_mana_recent_file_item_title_text_size">20sp</dimen>
+    <dimen name="file_mana_recent_file_title_text_size">21sp</dimen>
+    <dimen name="eink_font_size_20">20sp</dimen>
+    <dimen name="eink_base_font_size_22">22sp</dimen>
+    <dimen name="eink_base_stoken_width">1px</dimen>
+    <dimen name="eink_support_radius">3dp</dimen>
+    <dimen name="eink_base_stoken_width_2">2dp</dimen>
+    <dimen name="eink_base_radius_width">1px</dimen>
+    <dimen name="eink_font_size_24">24sp</dimen>
+    <dimen name="font_size_search">26sp</dimen>
+    <dimen name="font_size_toolbar_title">24sp</dimen>
+    <dimen name="font_size_tab_item">@dimen/font_size_toolbar_title</dimen>
+    <integer name="font_size_tab_item_integer">24</integer>
+    <dimen name="eink_base_font_size_24">24sp</dimen>
+    <dimen name="dict_res_from_width">160dp</dimen>
+    <dimen name="eink_font_size_18">18sp</dimen>
+    <dimen name="font_size_toolbar_meun_list">22sp</dimen>
+    <dimen name="dialog_auto_page_et_width">120dp</dimen>
+    <dimen name="EinkPaddingMenuTextRight">40dp</dimen>
+    <dimen name="eink_font_size_toolbar_meun">22sp</dimen>
+    <dimen name="eink_font_size_22">22sp</dimen>
+    <dimen name="eink_font_size_26">26sp</dimen>
+    <dimen name="eink_font_size_28">28sp</dimen>
+    <dimen name="eink_font_size_30">30sp</dimen>
+    <dimen name="eink_progress_paddingTop">23dp</dimen>
+    <dimen name="eink_progress_paddingBottom">23dp</dimen>
+
+    <dimen name="toolbar_title_max_width">351dp</dimen>
+    <dimen name="eink_tool_bar_padding_right">5dp</dimen>
+    <dimen name="window_short_cut_bar_top_height">93dp</dimen>
+    <dimen name="window_short_cut_bar_top_margin">0dp</dimen>
+    <dimen name="font_size_window_short_cut_bar_twenty">19sp</dimen>
+    <dimen name="short_cut_bright_padding_forty">37dp</dimen>
+    <dimen name="short_cut_bright_padding_twenty">18dp</dimen>
+    <dimen name="font_size_short_cut_bright_twentyfour">22sp</dimen>
+    <dimen name="short_cut_bright_height">94dp</dimen>
+    <dimen name="short_cut_bright_paddingbottom">22dp</dimen>
+    <dimen name="short_cut_bright_padding_top">28dp</dimen>
+    <dimen name="window_short_cut_viewProgress_margintbottom">-9dp</dimen>
+    <dimen name="file_mana_recent_file_item_cover_height">160dp</dimen>
+    <dimen name="file_mana_recent_file_item_cover_width">120dp</dimen>
+
+    <dimen name="file_list_item_padding_top">9dp</dimen>
+    <dimen name="file_list_item_padding_bottom">10dp</dimen>
+    <dimen name="file_list_item_cover_width">60dp</dimen>
+    <dimen name="file_list_item_cover_height">80dp</dimen>
+    <dimen name="file_list_item_cover_padding_right">10dp</dimen>
+    <dimen name="file_list_item_title_text_size">20sp</dimen>
+    <dimen name="file_list_item_desc_text_size">16sp</dimen>
+    <dimen name="file_list_item_desc_padding_top">10dp</dimen>
+    <dimen name="file_list_item_desc_padding_bottom">0dp</dimen>
+    <dimen name="file_list_item_checkbox_padding">10dp</dimen>
+    <dimen name="file_mana_recent_file_group_height">260dp</dimen>
+
+    <integer name="file_main_layout_weight">3</integer>
+    <dimen name="layout_empty_text_size">24sp</dimen>
+    <dimen name="layout_empty_text_margin_top">20dp</dimen>
+    <dimen name="eink_abc_config_prefDialogWidth">240dp</dimen>
+    <dimen name="eink_seek_eink_default_single_wid">17.5dp</dimen>
+    <dimen name="vol_item_width">13dp</dimen>
+
+    <dimen name="file_manager_group_padding_hor">10dp</dimen>
+    
+    <dimen name="main_tab_height">76dp</dimen>
+
+    <integer name="store_toolbar_underline_width">40</integer>
+    <dimen name="store_toolbar_underline_margin_text">5dp</dimen>
+    <integer name="store_toolbar_underline_height">3</integer>
+
+    <dimen name="file_manager_block_title_drawable_margin_text">5dp</dimen>
+
+    <integer name="tab_underline_margin_title">5</integer>
+
+    <dimen name="toolbar_multi_title_block_padding_right">40dp</dimen>
+    <dimen name="toolbar_multi_title_block_padding_left">0dp</dimen>
+    <dimen name="toolbar_multi_title_block_padding_top">2dp</dimen>
+    <dimen name="toolbar_multi_title_margin_primary_title">20dp</dimen>
+    <integer name="toolbar_multi_title_under_line_width">40</integer>
+    <integer name="toolbar_multi_title_under_line_height">3</integer>
+    <integer name="toolbar_multi_title_under_line_margin_title">8</integer>
+    <bool name="toolbar_multi_title_support_under_line">true</bool>
+
+    <dimen name="toolbar_show_pop_vertical_offset">7dp</dimen>
+    <dimen name="toolbar_show_pop_item_padding_top">14dp</dimen>
+    <dimen name="toolbar_show_pop_item_padding_bottom">14dp</dimen>
+</resources>

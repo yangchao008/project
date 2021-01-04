@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  笔记九宫格列数 4x2-->
+    <integer name="note_grid_columns_sudoku">4</integer>
+    <integer name="note_grid_page_count_sudoku">8</integer>
+
+    <!--  九宫格时行数-->
+    <integer name="note_item_summary_lines_sudoku">3</integer>
+    <integer name="note_item_remark_lines_soduku">3</integer>
+    <!--  九宫格-阅读模式-->
+    <integer name="note_item_remark_lines_soduku_dualpanel">2</integer>
+    <integer name="note_item_summary_lines_soduku_dualpanel">2</integer>
+    <!--  田字格-->
+    <integer name="note_item_summary_lines_net">3</integer>
+    <integer name="note_item_remark_lines_net">3</integer>
+    <!--  田字格-阅读模式-->
+    <integer name="note_item_remark_lines_net_dualpanel">4</integer>
+    <integer name="note_item_summary_lines_net_dualpanel">4</integer>
+
+    <integer name="page_count_cloud_book">4</integer>
+    <integer name="page_count_cloud_note_row">4</integer>
+
+    <integer name="page_count_cloud_my_book_row">4</integer>
+
+    <integer name="page_count_shopping_cart">4</integer>
+    <integer name="page_count_shopping_cart_order">4</integer>
+
+    <integer name="page_count_user_auto_order">7</integer>
+    <integer name="page_count_user_auto_order_nonfooter">7</integer>
+
+    <integer name="market_app_page_size">20</integer>
+</resources>

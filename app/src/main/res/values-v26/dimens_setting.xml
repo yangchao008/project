@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--  左边内容的宽度-->
+  <dimen name="left_content_width">238dp</dimen>
+  <dimen name="line_width">1px</dimen>
+  <dimen name="setting_title">24sp</dimen>
+  <dimen name="setting_sub_title">22sp</dimen>
+
+  <dimen name="lock_input_padding_border">110dp</dimen>
+  <!--加密相关的资源-->
+  <dimen name="add_pwd_group_margin_top">75dp</dimen>
+  <dimen name="add_pwd_phone_input_margin_pwd">30dp</dimen>
+  <dimen name="add_pwd_tips_margin_phone_input">7dp</dimen>
+  <dimen name="add_pwd_comfirn_margin_phone">32dp</dimen>
+  <dimen name="add_pwd_fake_prompt_margin_top">87dp</dimen>
+  <dimen name="add_pwd_fake_prompt_margin_top2">87dp</dimen>
+  <dimen name="add_pwd_real_prompt_margin_bottom">43dp</dimen>
+  
+  <dimen name="add_pwd_vaild_text_margin_top">107dp</dimen>
+  <dimen name="add_pwd_vaild_text_margin_botton">40dp</dimen>
+  <dimen name="add_pwd_qr_code_margin_left">109dp</dimen>
+  <dimen name="add_pwd_qr_code_margin_right">109dp</dimen>
+  <dimen name="add_pwd_qr_forget_pwd_margin_top">15dp</dimen>
+
+  <dimen name="add_pwd_pwd_setted_text_promt_margin_top">93dp</dimen>
+  <dimen name="add_pwd_pwd_setted_text_promt_margin_bottom">32dp</dimen>
+  <dimen name="add_pwd_pwd_setted_remove_pwd_width">246dp</dimen>
+  <dimen name="add_pwd_pwd_setted_remove_pwd_margin_top">48dp</dimen>
+  <dimen name="add_pwd_pwd_setted_remove_prompt_margin_bottom">43dp</dimen>
+
+  <dimen name="add_pwd_retrive_pwd_prompt_margin_top">107dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_prompt_margin_bottom">31dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_width">200dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_height">200dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_margin_bottom">16dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_refresh_marign_bottom">46dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_to_unlock_height">50dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_to_unlock_padding_left">31dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_to_unlock_padding_right">40dp</dimen>
+  <dimen name="add_pwd_retrive_pwd_qr_to_unlock_drawable_padding">6dp</dimen>
+
+  <dimen name="add_pwd_move_pwd_text_prompt_margin_top">107dp</dimen>
+  <dimen name="add_pwd_move_pwd_text_prompt_margin_bottom">40dp</dimen>
+  <dimen name="add_pwd_move_pwd_input_margin_left">109dp</dimen>
+  <dimen name="add_pwd_move_pwd_input_margin_right">109dp</dimen>
+  <dimen name="add_pwd_move_pwd_cancel_width">246dp</dimen>
+  <dimen name="add_pwd_move_pwd_cancel_margin_top">60dp</dimen>
+  <dimen name="add_pwd_move_pwd_cancel_padding_top">7dp</dimen>
+  <dimen name="add_pwd_move_pwd_cancel_padding_bottom">7dp</dimen>
+
+  <dimen name="add_pwd_error_tag_width">108dp</dimen>
+  <dimen name="add_pwd_error_tag_height">108dp</dimen>
+  <dimen name="add_pwd_error_tag_margin_top">80dp</dimen>
+  <dimen name="add_pwd_error_prompt_text_margin_top">32dp</dimen>
+  <dimen name="add_pwd_error_find_pwd_height">50dp</dimen>
+  <dimen name="add_pwd_error_find_pwd_margin_top">48dp</dimen>
+  
+  <dimen name="add_device_pwd_remove_margin_left">67dp</dimen>
+  <dimen name="add_device_pwd_remove_margin_right">67dp</dimen>
+  <dimen name="add_device_pwd_remove_margin_top">90dp</dimen>
+  <dimen name="add_device_pwd_remove_tag_drawable_padding">7dp</dimen>
+  <dimen name="add_device_pwd_remove_input_margin_top">40dp</dimen>
+  <dimen name="add_device_pwd_remove_comfirn_margin_top">71dp</dimen>
+
+  <dimen name="font_size_14">14sp</dimen>
+  <dimen name="font_size_16">16sp</dimen>
+  <dimen name="font_size_18">18sp</dimen>
+  <dimen name="font_size_20">20sp</dimen>
+  <dimen name="font_size_22">22sp</dimen>
+  <dimen name="font_size_23">23sp</dimen>
+  <dimen name="font_size_24">24sp</dimen>
+  <dimen name="font_size_25">25sp</dimen>
+  <dimen name="font_size_27">27sp</dimen>
+  <!--<dimen name="font_size_28">28sp</dimen>-->
+  <dimen name="font_size_36">36sp</dimen>
+
+  <dimen name="reader_setting_padding_5">5dp</dimen>
+  <dimen name="reader_setting_padding_10">10dp</dimen>
+  <dimen name="reader_setting_padding_12">12dp</dimen>
+  <dimen name="reader_setting_padding_14">14dp</dimen>
+  <dimen name="reader_setting_padding_15">15dp</dimen>
+  <dimen name="reader_setting_padding_16">16dp</dimen>
+  <dimen name="reader_setting_padding_18">18dp</dimen>
+  <dimen name="reader_setting_padding_20">20dp</dimen>
+  <dimen name="reader_setting_padding_22">22dp</dimen>
+  <dimen name="reader_setting_padding_24">24dp</dimen>
+  <dimen name="reader_setting_padding_26">26dp</dimen>
+  <dimen name="reader_setting_padding_29">29dp</dimen>
+  <dimen name="reader_setting_padding_30">30dp</dimen>
+  <dimen name="reader_setting_padding_35">35dp</dimen>
+  <dimen name="reader_setting_padding_36">36dp</dimen>
+  <dimen name="reader_setting_padding_40">40dp</dimen>
+  <dimen name="reader_setting_padding_45">45dp</dimen>
+  <dimen name="reader_setting_padding_50">50dp</dimen>
+  <dimen name="reader_setting_padding_52">52dp</dimen>
+  <dimen name="reader_setting_padding_55">55dp</dimen>
+  <dimen name="reader_setting_padding_60">60dp</dimen>
+  <dimen name="reader_setting_padding_80">80dp</dimen>
+
+  <dimen name="padding_18">18dp</dimen>
+
+  <dimen name="padding_53">53dp</dimen>
+
+  <dimen name="padding_90">90dp</dimen>
+
+
+  <!-- 设置项每项的高度  -->
+  <dimen name="settings_item_height">93dp</dimen>
+  <dimen name="dialog_volume_width">600dp</dimen>
+  <dimen name="dialog_volume_height">97dp</dimen>
+  <dimen name="setting_font_size_18">18sp</dimen>
+  <dimen name="setting_font_size_20">20sp</dimen>
+  <dimen name="setting_font_size_size_22">22sp</dimen>
+  <dimen name="setting_bottom_frame_padding">35dp</dimen>
+
+  <dimen name="setting_item_margin_left">29dp</dimen>
+  <dimen name="setting_item_margin_right">29dp</dimen>
+
+  <dimen name="knowledge_simbal_margin_top">26dp</dimen>
+  <dimen name="knowledge_prompt_text_margin_top">17dp</dimen>
+  <dimen name="knowledge_prompt_margin_left">45dp</dimen>
+  <dimen name="knowledge_prompt_margin_right">45dp</dimen>
+  <dimen name="knowledge_trigger_margin_left">100dp</dimen>
+  <dimen name="knowledge_trigger_margin_right">100dp</dimen>
+
+  <dimen name="setting_handmodel_margin_top">40dp</dimen>
+  <dimen name="setting_handmodel_thumb_margin_top">50dp</dimen>
+
+  <dimen name="setting_landscapemodel_margin_top">60dp</dimen>
+  <dimen name="setting_landscapemodel_thumb_margin_top">30dp</dimen>
+
+  <dimen name="setting_item_height">@dimen/mine_page_item_height</dimen>
+
+  <dimen name="setting_read_page_sencond_padding_vertical">30dp</dimen>
+  <dimen name="setting_read_page_thumb_margin_top">20dp</dimen>
+
+  <dimen name="help_prompt_text_margin_left">10dp</dimen>
+  <dimen name="help_prompt_text_margin_right">10dp</dimen>
+
+  <dimen name="setting_3c_style_padding_top">12dp</dimen>
+  <dimen name="setting_3c_style_padding_bottom">12dp</dimen>
+  <dimen name="setting_3c_flag_size">80dp</dimen>
+  <dimen name="setting_3c_text_size">22sp</dimen>
+</resources>

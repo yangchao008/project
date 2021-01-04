@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!--优惠券相关的参数-->
+  <dimen name="coupon_grid_content_margin_top">20dp</dimen>
+  <dimen name="coupon_grid_spacing_ver">10dp</dimen>
+  <dimen name="coupon_grid_spacing_hor">10dp</dimen>
+  <dimen name="coupon_grid_title_margin_top">5dp</dimen>
+  <dimen name="coupon_grid_desc_margin_top">10dp</dimen>
+  <dimen name="coupon_grid_item_margin_left">10dp</dimen>
+
+  <dimen name="coupon_grid_title_text_size">20sp</dimen>
+  <dimen name="coupon_grid_desc_text_size">18sp</dimen>
+  <dimen name="coupon_grid_get_text_size">18sp</dimen>
+
+  <dimen name="coupon_grid_get_padding_hor">10dp</dimen>
+  <dimen name="coupon_grid_get_padding_ver">5dp</dimen>
+
+
+  <dimen name="coupon_list_item_padding_hor">10dp</dimen>
+  <dimen name="coupon_list_item_margin_hor">40dp</dimen>
+  <dimen name="coupon_list_item_title_margin_top">10dp</dimen>
+  <dimen name="coupon_list_item_desc_margin_top">10dp</dimen>
+  <dimen name="coupon_list_item_desc_margin_bottom">10dp</dimen>
+  <dimen name="coupon_list_get_padding">5dp</dimen>
+  <dimen name="coupon_list_get_margin_hor">10dp</dimen>
+
+  <dimen name="coupon_list_title_text_size">20sp</dimen>
+  <dimen name="coupon_list_desc_text_size">18sp</dimen>
+  <dimen name="coupon_list_range_text_size">18sp</dimen>
+  <dimen name="coupon_list_get_text_size">18sp</dimen>
+  <dimen name="coupon_list_content_margin_top">20dp</dimen>
+
+
+  <integer name="coupon_grid_column">2</integer>
+</resources>

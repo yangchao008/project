@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--弹窗的边框相关属性-->
+  <dimen name="theme_dialog_base_title_close_size">60dp</dimen>
+  <dimen name="theme_dialog_width_close_inner">500dp</dimen>
+  <dimen name="theme_dialog_width_close_outer">1000dp</dimen><!--这个值和上一个值要保持70*2的关系,这个70的值就是下面的那个值,嗯,没错-->
+
+  <dimen name="theme_dialog_close_outside_margin_left">10dp</dimen>
+  <dimen name="theme_dialog_close_outside_content_margin_hor">70dp</dimen>
+
+  <dimen name="theme_dialog_border_width">1dp</dimen><!--弹窗边框的宽度-->
+  <dimen name="theme_dialog_border_corner_radius">5dp</dimen><!--圆角的半径-->
+  <dimen name="theme_dialog_title_height">68dp</dimen><!--title的高度-->
+  <dimen name="theme_dialog_title_text_size">24sp</dimen>
+  <dimen name="export_item_name_text_size">24sp</dimen>
+  <dimen name="theme_dialog_close_tag_size">40dp</dimen><!--关闭标记的尺寸-->
+  <dimen name="theme_dialog_content_group_padding_content_l">0dp</dimen>
+  <dimen name="theme_dialog_content_group_padding_content_t">0dp</dimen>
+  <dimen name="theme_dialog_content_group_padding_content_r">0dp</dimen>
+  <dimen name="theme_dialog_content_group_padding_content_b">0dp</dimen>
+
+  <!--PopWindow的相关属性-->
+  <!--主窗体的尺寸-->
+  <dimen name="theme_listpop_group_width">164dp</dimen>
+  <dimen name="theme_listpop_group_offset_hor">0dp</dimen>
+  <dimen name="theme_listpop_group_offset_ver">16dp</dimen>
+
+  <dimen name="theme_listpop_divider_padding_top">8dp</dimen>
+  <dimen name="theme_listpop_divider_padding_bottom">8dp</dimen>
+  <dimen name="theme_listpop_divider_height">1dp</dimen>
+  <dimen name="theme_listpop_primary_item_height">54dp</dimen>
+  <dimen name="theme_listpop_primary_item_padding_start">36dp</dimen>
+  <dimen name="theme_listpop_primary_item_padding_end">36dp</dimen>
+  <dimen name="theme_listpop_primary_item_text_size">22sp</dimen>
+  <dimen name="theme_listpop_default_item_height">15dp</dimen>
+  <dimen name="theme_listpop_default_item_padding_start">@dimen/theme_listpop_primary_item_padding_start</dimen>
+  <dimen name="theme_listpop_default_item_padding_end">@dimen/theme_listpop_primary_item_padding_end</dimen>
+  <dimen name="theme_listpop_default_item_text_size">16sp</dimen>
+
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="mine_weekly_report_userinfo_height">180dp</dimen>
+  <dimen name="mine_weekly_report_avater">80dp</dimen>
+  <dimen name="mine_weekly_report_divider">20dp</dimen>
+  <dimen name="mine_weekly_font">30sp</dimen>
+  <dimen name="mine_weekly_user_font">21sp</dimen>
+  <dimen name="mine_weekly_14">14dp</dimen>
+  <dimen name="mine_weekly_chart_text_size">17dp</dimen>
+  <dimen name="mine_weekly_info_padding">17dp</dimen>
+  <dimen name="mine_weekly_chart_text_size_medium">@dimen/mine_weekly_user_font</dimen>
+  <dimen name="mine_weekly_chart_height">520dp</dimen>
+  <dimen name="mine_weekly_chart_coord_stroke">0.5dp</dimen>
+  <dimen name="mine_weekly_chart_stroke">13dp</dimen>
+  <dimen name="mine_weekly_chart_coord_x">747dp</dimen>
+  <dimen name="mine_weekly_chart_coord_y">347dp</dimen>
+  <dimen name="mine_weekly_chart_coord_x_left">83dp</dimen>
+  <dimen name="mine_weekly_chart_coord_y_bottom">124dp</dimen>
+  <dimen name="mine_weekly_chart_coord_y_regin">67dp</dimen>
+  <dimen name="mine_weekly_chart_info_margin_cood">60dp</dimen>
+  <dimen name="mine_weekly_chart_coord_yaxis_margin_right">20dp</dimen>
+  <dimen name="mine_weekly_chart_coord_xaxis_margin_top">17dp</dimen>
+  <dimen name="mine_weekly_chart_info_margin">8dp</dimen>
+  <dimen name="mine_weekly_share_bottom">82dp</dimen>
+  <dimen name="mine_weekly_share_top">45dp</dimen>
+  <dimen name="mine_weekly_text_height">75dp</dimen>
+  <dimen name="mine_weekly_user_left">63dp</dimen>
+  <dimen name="mine_weekly_text_size">63dp</dimen>
+<!-- 小屏幕需要增加 -->
+  <dimen name="mine_weekly_bottom">82dp</dimen>
+  <dimen name="mine_weekly_chart_bitmap_padding">4dp</dimen>
+
+</resources>

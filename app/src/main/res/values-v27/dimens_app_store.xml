@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_store_tip_size">11sp</dimen>
+    <dimen name="app_store_tip_height">16dp</dimen>
+</resources>

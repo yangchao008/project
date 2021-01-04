@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setting_read_page_second_margin_top">20dp</dimen>
+    <dimen name="setting_read_page_first_margin_top">10dp</dimen>
+
+    <!--<dimen name="knowledge_window_width">400dp</dimen>-->
+</resources>

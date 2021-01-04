@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Container.Padding" parent="">
+        <item name="android:paddingLeft">@dimen/Base.Root.PaddingLeft</item>
+        <item name="android:paddingRight">@dimen/Base.Root.PaddingRight</item>
+    </style>
+    <dimen name="Base.SysteBar.Hei">49dp</dimen>
+    <dimen name="Base.Background.stroke">2dp</dimen>
+    <dimen name="ActionBar.Height">130dp</dimen>
+
+    <dimen name="Base.List.Item.PaddingTop">8dp</dimen>
+
+    <dimen name="Base.Line.Height">1px</dimen>
+
+    <dimen name="Base.Stroke">2px</dimen>
+    <!--字体大小-->
+  <!--  <dimen name="Base.Font.Size.H">48sp</dimen>
+    <dimen name="Base.Font.Size.HS">42sp</dimen> 
+    <dimen name="Base.Font.Size.LL">38sp</dimen> 
+     <dimen name="Base.Font.Size.L">35sp</dimen> 
+    <dimen name="Base.Font.Size.M">30sp</dimen> 
+    <dimen name="Base.Font.Size.N">28sp</dimen> 
+    <dimen name="Base.Font.Size.S">20sp</dimen> 
+    <dimen name="Base.Font.Size.SS">26sp</dimen> 
+    <dimen name="Base.Font.Size.T">10sp</dimen>-->
+    <dimen name="Base.Font.Size.MS">30sp</dimen> 
+    <dimen name="Base.Font.Size.H">44sp</dimen>
+    <dimen name="Base.Font.Size.HS">40sp</dimen> 
+    <dimen name="Base.Font.Size.HL">38sp</dimen> 
+    <dimen name="Base.Font.Size.LL">36sp</dimen> 
+    <dimen name="Base.Font.Size.LH">34sp</dimen> 
+     <dimen name="Base.Font.Size.L">32sp</dimen> 
+     <dimen name="Base.Font.Size.LM">30sp</dimen> 
+    <dimen name="Base.Font.Size.M">28sp</dimen> 
+    <dimen name="Base.Font.Size.NS">26sp</dimen>
+    <dimen name="Base.Font.Size.N">24sp</dimen> 
+    <dimen name="Base.Font.Size.SN">22sp</dimen> 
+    <dimen name="Base.Font.Size.S">20sp</dimen> 
+    <dimen name="Base.Font.Size.SS">16sp</dimen> 
+    <dimen name="Base.Font.Size.T">12sp</dimen>
+    <dimen name="Base.Item.Padding">40dp</dimen>
+    <dimen name="Base.Padding10">10dp</dimen>
+    <dimen name="Base.Padding20">20dp</dimen>
+    <dimen name="Base.Padding40">40dp</dimen>
+    <dimen name="Base.Btn.Padding">20dp</dimen>
+    <dimen name="Base.Font.Size.22">22sp</dimen> 
+    <!--按钮大小-->
+    <dimen name="Base.Btn.Height">50dp</dimen>
+    <dimen name="Base.Btn.minHeight">80dp</dimen>
+    <dimen name="Base.Btn.coner">5dp</dimen>
+
+    <dimen name="Base.List.Item.Height.Single">48dp</dimen>
+    <dimen name="Base.List.Item.Height.Double">68dp</dimen>
+    <dimen name="Base.List.PaddingLeft">18dp</dimen>
+    <dimen name="Base.List.PaddingRight">@dimen/Base.List.PaddingLeft</dimen>
+
+    <dimen name="Base.Store.Root.Title.Top">30dp</dimen>
+    <dimen name="Base.Store.Root.CategoryNamePadding">5dp</dimen>
+    <dimen name="Base.Store.Root.CategoryNameTopPadding">10dp</dimen>
+    <dimen name="Base.Store.Root.CategoryCoverPadding">20dp</dimen>
+    <dimen name="Base.Store.Root.CategoryPadding">10dp</dimen>
+    <dimen name="Base.Store.Root.CategoryPaddingTitle">1dp</dimen>
+    <dimen name="Base.Store.Root.CategoryItemPadding">15dp</dimen>
+    <dimen name="Base.Store.Root.Item.CategoryPaddingTitle">12dp</dimen>
+
+    <dimen name="Base.DialogLoading.Width">420dp</dimen>
+
+    <dimen name="Base.Store.CategoryPadding">20dp</dimen>
+    <dimen name="Base.Store.CategoryItemPadding">30dp</dimen>
+
+    <dimen name="Base.Store.CategoryBookWid">163dp</dimen>
+    <dimen name="Base.Store.CategoryBookHei">205dp</dimen>
+
+    <dimen name="Base.Store.CategoryWid">135dp</dimen>
+    <dimen name="Base.Store.CategoryHei">45dp</dimen>
+
+    <dimen name="Base.Store.CategoryCoverHei">144dp</dimen>
+    <dimen name="Base.Store.CategoryCoverWid">109dp</dimen>
+
+    <dimen name="Base.Store.CategoryFilterWid">112dp</dimen>
+    <dimen name="Base.Store.CategoryFilterHei">56dp</dimen>
+    <dimen name="Base.PaddingLeft">25dp</dimen>
+    <dimen name="Base.PaddingRight">@dimen/Base.PaddingLeft</dimen>
+    <dimen name="Base.PaddingTop">20dp</dimen>
+    <dimen name="Base.PaddingBottom">@dimen/Base.PaddingTop</dimen>
+    <dimen name="Base.OnlineDetailPaddingLeft">15dp</dimen>
+    <dimen name="Base.OnlineDetailPaddingRight">@dimen/Base.OnlineDetailPaddingLeft</dimen>
+
+    <dimen name="Dialog.Width">920dp</dimen>
+    <dimen name="Dialog.Height">1120dp</dimen>
+
+    <dimen name="Base.Root.PaddingTop">40dp</dimen>
+    <dimen name="Base.Root.PaddingButtom">@dimen/Base.Root.PaddingTop</dimen>
+
+</resources>

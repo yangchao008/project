@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="hwnote_audio_tts_lines">4</integer>
+    <integer name="page_count_font">7</integer>
+    <integer name="page_count_read_note">2</integer>
+    <integer name="page_count_cartoon_chapters">7</integer>
+    <integer name="page_count_capture_notelist">6</integer>
+    <integer name="page_count_hw_reco_search_item">8</integer>
+    <integer name="page_count_font_landscape">5</integer>
+
+    <integer name="maxline_note_adapter_net">3</integer>
+    <integer name="maxline_note_adapter_normal_fullscreen">1</integer>
+    <integer name="maxline_note_adapter_net_fullscreen">5</integer>
+
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <!-- 5.0PDF -->
+    <dimen name="pdf2_crop_rect_marging">17dp</dimen>
+    <dimen name="pdf2_crop_rect_corner_width">3dp</dimen>
+    <dimen name="pdf2_crop_rect_corner_length">20dp</dimen>
+    <dimen name="pdf2_crop_rect_line_width">1dp</dimen>
+    <dimen name="pdf2_crop_notice_icon_width">25dp</dimen>
+    <dimen name="pdf2_crop_notice_layout_height">70dp</dimen>
+    <dimen name="pdf2_padding_margin_42">42dp</dimen>
+    <dimen name="pdf2_padding_margin_26">26dp</dimen>
+    <dimen name="pdf2_loading_text_size">25sp</dimen>
+
+    <!-- 字体布局尺寸 -->
+
+    <dimen name="pdf2_menu_title_format_font">24sp</dimen>
+    <dimen name="pdf2_crop_notice_font">26sp</dimen>
+
+</resources>

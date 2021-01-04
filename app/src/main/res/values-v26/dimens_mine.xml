@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="user_sign_tv_margin_top">46dp</dimen>
+    <dimen name="user_sign_tv_margin_bottom">65dp</dimen>
+    <dimen name="user_sign_bottom_tip_width">639dp</dimen>
+    <dimen name="user_sign_item_width">149dp</dimen>
+    <dimen name="user_sign_item_height">182dp</dimen>
+    <dimen name="user_sign_bottom_tip_margin_top">150dp</dimen>
+    <dimen name="user_sign_tv_height">100dp</dimen>
+
+    <dimen name="user_duration_height">120dp</dimen>
+    <dimen name="user_asset_coupon_width">296dp</dimen>
+    <dimen name="user_asset_recharge_width">454dp</dimen>
+    <dimen name="user_asset_recharge_height">46dp</dimen>
+    <dimen name="user_asset_recharge_margin_top">65dp</dimen>
+    <dimen name="user_asset_recharge_margin_bottom">37dp</dimen>
+    <dimen name="user_asset_balance_height">63dp</dimen>
+    <dimen name="user_experience_margin_top">55dp</dimen>
+    <dimen name="user_exp_duration_margin_top">28dp</dimen>
+    <dimen name="user_exp_duration_height">63dp</dimen>
+    <dimen name="user_exp_empty_padding_top">167dp</dimen>
+    <dimen name="user_exp_empty_padding_bottom">190dp</dimen>
+    <dimen name="user_exp_empty_drawable_padding">22dp</dimen>
+    <dimen name="user_login_right_now_width">324dp</dimen>
+    <dimen name="user_login_right_now_height">46dp</dimen>
+    <dimen name="user_exp_empty_tip_font_size">20sp</dimen>
+    <dimen name="user_sign_padding_bottom">22dp</dimen>
+
+    <!--<dimen name="item_single_line_height">92dp</dimen>-->
+    <dimen name="benefit_item_btn_width">79dp</dimen>
+    <dimen name="benefit_item_btn_height">30dp</dimen>
+    <dimen name="benefit_item_btn_margin_left">28dp</dimen>
+    <dimen name="benefit_task_detail_tips_padding">28dp</dimen>
+    <dimen name="benefit_task_detail_btn_width">648dp</dimen>
+    <dimen name="benefit_task_detail_btn_height">50dp</dimen>
+    <dimen name="benefit_task_detail_tx">24sp</dimen>
+    <dimen name="benefit_task_detail_tf">22sp</dimen>
+    <dimen name="benefit_task_btn_margingtop">37dp</dimen>
+    <dimen name="benefit_item_height">92dp</dimen>
+    <dimen name="benefit_item_click_width">79dp</dimen>
+    <dimen name="benefit_item_click_height">30dp</dimen>
+    <dimen name="benefit_item_head_height">268dp</dimen>
+    <dimen name="benefit_item_sign_size">148dp</dimen>
+    <dimen name="benefit_item_head_sign_margin">28dp</dimen>
+    <dimen name="benefit_item_head_text_font">24sp</dimen>
+    <dimen name="benefit_item_empty_padding">102dp</dimen>
+
+    <dimen name="user_read_exp_grid_item_height">35dp</dimen>
+    <dimen name="read_exp_type_padding_bottom">23sp</dimen>
+    <dimen name="read_exp_type_padding_top">42dp</dimen>
+    <dimen name="read_exp_tv_margin_bottom">28dp</dimen>
+    <dimen name="read_exp_author_padding_top">37dp</dimen>
+    <dimen name="user_read_exp_default_height">125dp</dimen>
+    <dimen name="user_exp_duration_marginBottom">46dp</dimen>
+    <!--<dimen name="user_duration_width">148dp</dimen>-->
+    <!--<dimen name="user_duration_spacing">82dp</dimen>-->
+    <dimen name="read_exp_grid_item_space">23dp</dimen>
+    <dimen name="coupon_item_height">100dp</dimen>
+    <dimen name="font_size_coupon_item_title">24sp</dimen>
+    <!--<dimen name="item_two_line_paddingTop">23dp</dimen>-->
+    <!--<dimen name="item_two_line_paddingBottom">23dp</dimen>-->
+    <!--<dimen name="recharge_history_item_padding_top">26dp</dimen>-->
+    <!--<dimen name="recharge_history_item_padding_bottom">25dp</dimen>-->
+    <!--<dimen name="font_size_file_item_first_line">22sp</dimen>-->
+    <!--<dimen name="font_size_file_item_second_line">19sp</dimen>-->
+    <!--<dimen name="consumption_record_item_spaceX">100dp</dimen>-->
+    <!--<dimen name="consumption_detail_item__paddingTop">18dp</dimen>-->
+    <!--<dimen name="consumption_detail_item__paddingBottom">18dp</dimen>-->
+
+    <dimen name="settlement_item_cover_width">75dp</dimen>
+    <dimen name="settlement_item_cover_height">100dp</dimen>
+    <dimen name="order_settlement_item_height">106dp</dimen>
+    <!--<dimen name="search_item_book_name_size">22sp</dimen>-->
+    <!--<dimen name="search_item_book_detail_size">19sp</dimen>-->
+    <dimen name="shopping_cart_item_height">133dp</dimen>
+    <dimen name="shopping_cart_price_group_margin_divider">10dp</dimen>
+    <!--<dimen name="font_size_bookitem_with_cover_paddingtop">10dp</dimen>-->
+    <!--<dimen name="font_size_bookitem_with_cover_paddingbottom">10dp</dimen>-->
+    <!--<dimen name="local_export_book_select_padding_right">18dp</dimen>-->
+    <!--<dimen name="order_layout_paddingTop">27dp</dimen>-->
+    <!--<dimen name="order_item_top_margin">12dp</dimen>-->
+    <!--<dimen name="order_qr_marginBottom">23dp</dimen>-->
+    <!--<dimen name="qr_image_size">223dp</dimen>-->
+    <dimen name="order_settlement_item_padding">0dp</dimen>
+    <dimen name="shopping_cart_favourable_height">54dp</dimen>
+    <dimen name="shopping_cart_list_bottom_margin">17dp</dimen>
+    <dimen name="shopping_cart_btn_pay_height">50dp</dimen>
+    <dimen name="order_settlement_pay_bottom_margin">14dp</dimen>
+    <dimen name="font_size_shopping_cart_promotion">20sp</dimen>
+    <dimen name="shopping_settlement_bill_marginBottom">5dp</dimen>
+    <dimen name="font_size_shopping_settlement_num">27sp</dimen>
+    <dimen name="shopping_cart_preferentail_height">28dp</dimen>
+    <dimen name="font_size_shopping_cart_preferential">20sp</dimen>
+    <dimen name="benefit_progress_height">28dp</dimen>
+
+    <!--这是~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~分割~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~线-->
+
+    <!-- 登录界面的header的高度 -->
+    <dimen name="user_header_height">80px</dimen>
+    <dimen name="title_left_padding">42dp</dimen>
+    <dimen name="user_title_size">27sp</dimen>
+
+    <dimen name="user_avatar_width">80dp</dimen>
+    <dimen name="user_avatar_height">80dp</dimen>
+    <!--<dimen name="vip_status_iv_width">50dp</dimen>-->
+    <!--<dimen name="font_size_user_logined_duration">20sp</dimen>-->
+    <!--<dimen name="user_login_sign_tv_width">113dp</dimen>-->
+    <!--<dimen name="user_login_sign_tv_height">44dp</dimen>-->
+    <!--<dimen name="font_size_user_login_sign">24sp</dimen>-->
+    <!--<dimen name="user_login_right_now_width">324dp</dimen>
+    <dimen name="user_login_right_now_height">46dp</dimen>
+
+    <dimen name="Base.Font.Size.MS">30sp</dimen>
+    <dimen name="Base.Font.Size.H">44sp</dimen>
+    <dimen name="Base.Font.Size.HS">40sp</dimen>
+    <dimen name="Base.Font.Size.HL">38sp</dimen>
+    <dimen name="Base.Font.Size.LL">36sp</dimen>
+    <dimen name="Base.Font.Size.LH">34sp</dimen>
+    <dimen name="Base.Font.Size.L">32sp</dimen>
+    <dimen name="Base.Font.Size.LM">30sp</dimen>
+    <dimen name="Base.Font.Size.M">28sp</dimen>
+    <dimen name="Base.Font.Size.NS">26sp</dimen>
+    <dimen name="Base.Font.Size.N">24sp</dimen>
+    <dimen name="Base.Font.Size.SN">22sp</dimen>
+    <dimen name="Base.Font.Size.S">20sp</dimen>
+    <dimen name="Base.Font.Size.SS">16sp</dimen>
+    <dimen name="Base.Font.Size.T">12sp</dimen>
+    <dimen name="Base.Item.Padding">40dp</dimen>
+    <dimen name="Base.Padding10">10dp</dimen>
+    <dimen name="Base.Padding20">20dp</dimen>
+    <dimen name="Base.Padding40">40dp</dimen>
+    <dimen name="Base.Btn.Padding">20dp</dimen>
+    <dimen name="Base.Font.Size.22">22sp</dimen>-->
+
+    <!--<dimen name="Radius_2">2dp</dimen>
+    <dimen name="Radius_5">5dp</dimen>
+    <dimen name="Radius_3">3dp</dimen>
+    <dimen name="Radius_4">4dp</dimen>
+    <dimen name="Radius_10">10dp</dimen>-->
+
+    <!--<dimen name="font_size_charge_tips">22sp</dimen>-->
+    <!--<dimen name="page_common_text_size">@dimen/Base.Font.Size.LL</dimen>-->
+
+    <!--<dimen name="user_sign_padding_bottom">24dp</dimen>
+    <dimen name="user_sign_tv_margin_top">50dp</dimen>
+    <dimen name="user_sign_tv_margin_bottom">70dp</dimen>
+    <dimen name="user_sign_bottom_tip_width">690dp</dimen>
+    <dimen name="user_sign_item_width">153dp</dimen>
+    <dimen name="user_sign_item_height">186dp</dimen>-->
+    <dimen name="mine_user_sign_gridview_padding">67dp</dimen>
+    <dimen name="mine_user_sign_gridview_right_padding">32dp</dimen>
+    <!--<dimen name="user_sign_bottom_tip_margin_top">180dp</dimen>
+    <dimen name="user_sign_tv_height">120dp</dimen>-->
+
+    <dimen name="font_size_sign_tips">22sp</dimen>
+    <!--<dimen name="font_size_sign_result">28sp</dimen>-->
+    <dimen name="font_size_sign_price">50sp</dimen>
+    <dimen name="user_sign_gridview_vertical_space">30dp</dimen>
+
+    <!--<dimen name="user_duration_height">130dp</dimen>-->
+    <!--<dimen name="user_duration_font_size">28sp</dimen>-->
+    <!--<dimen name="user_asset_coupon_width">320dp</dimen>
+    <dimen name="user_asset_recharge_width">490dp</dimen>
+    <dimen name="user_asset_recharge_height">50dp</dimen>
+    <dimen name="user_asset_recharge_margin_top">70dp</dimen>
+    <dimen name="user_asset_recharge_margin_bottom">40dp</dimen>
+    <dimen name="user_asset_balance_height">68dp</dimen>
+    <dimen name="user_experience_margin_top">60dp</dimen>
+    <dimen name="user_exp_duration_margin_top">30dp</dimen>
+    <dimen name="user_exp_duration_height">68dp</dimen>
+    <dimen name="user_exp_empty_padding_top">180dp</dimen>
+    <dimen name="user_exp_empty_padding_bottom">205dp</dimen>
+    <dimen name="user_exp_empty_drawable_padding">25dp</dimen>
+    <dimen name="item_single_line_height">100dp</dimen>-->
+    <!--<dimen name="font_size_assets_list_item">26sp</dimen>-->
+    <dimen name="font_size_translation_page_all">24sp</dimen>
+
+   <!-- <dimen name="benefit_item_btn_width">85dp</dimen>
+    <dimen name="benefit_item_btn_height">32dp</dimen>
+    <dimen name="benefit_item_btn_margin_left">30dp</dimen>
+    <dimen name="benefit_task_detail_tips_padding">30dp</dimen>
+    <dimen name="benefit_task_detail_btn_width">698dp</dimen>
+    <dimen name="benefit_task_detail_btn_height">50dp</dimen>
+    <dimen name="benefit_task_detail_tx">26sp</dimen>
+    <dimen name="benefit_task_detail_tf">24sp</dimen>
+    <dimen name="benefit_task_btn_margingtop">40dp</dimen>
+    <dimen name="benefit_item_height">100dp</dimen>
+    <dimen name="benefit_item_click_width">85dp</dimen>
+    <dimen name="benefit_item_click_height">32dp</dimen>
+    <dimen name="benefit_item_head_height">290dp</dimen>
+    <dimen name="benefit_item_sign_size">160dp</dimen>
+    <dimen name="benefit_item_head_sign_margin">30dp</dimen>
+    <dimen name="benefit_item_head_text_font">26sp</dimen>
+    <dimen name="benefit_item_empty_padding">110dp</dimen>-->
+    <!--<dimen name="font_size_page_empty_tips">24sp</dimen>-->
+
+    <!-- VIP  -->
+    <dimen name="mine_vip_layout_padding">40dp</dimen>
+    <dimen name="mine_vip_user_layout_padding">30dp</dimen>
+    <dimen name="mine_vip_user_name_margin_left">32dp</dimen>
+    <dimen name="font_size_mine_vip_user_name">28sp</dimen>
+    <dimen name="mine_vip_user_name_des_spaceY">15dp</dimen>
+    <dimen name="font_size_mine_vip_user_name_des">24sp</dimen>
+    <dimen name="mine_vip_item_divider_height">20dp</dimen>
+    <dimen name="mine_vip_rights_height">62dp</dimen>
+    <dimen name="mine_vip_bottom_bar_height">97dp</dimen>
+    <dimen name="font_size_vip_real_price">30sp</dimen>
+    <dimen name="font_size_mine_vip_original">17sp</dimen>
+    <dimen name="mine_vip_pay_width">124dp</dimen>
+    <dimen name="mine_vip_pay_height">60dp</dimen>
+    <dimen name="font_size_mine_vip_to_pay">26sp</dimen>
+    <dimen name="mine_vip_pay_margin_top">15dp</dimen>
+    <dimen name="vip_price_item_padding_top">13dp</dimen>
+    <dimen name="vip_price_item_padding_left">33dp</dimen>
+    <dimen name="vip_price_item_padding_right">53dp</dimen>
+    <dimen name="font_size_mine_vip_twenty_four">24sp</dimen>
+    <dimen name="font_size_mine_vip_twenty_two">22sp</dimen>
+    <dimen name="font_size_mine_vip_twenty_six">26sp</dimen>
+    <dimen name="mine_vip_price_item_height">66dp</dimen>
+    <dimen name="mine_vip_title_item_height">30dp</dimen>
+    <dimen name="vip_rights_interests_padding">36dp</dimen>
+    <dimen name="vip_rights_interests_padding_left">29dp</dimen>
+    <dimen name="vip_rights_interests_padding_right">29dp</dimen>
+    <dimen name="rights_intersts_margin_top">16dp</dimen>
+    <dimen name="rights_interests_divider_width">35dp</dimen>
+    <dimen name="normal_vip_gird_margintop">45dp</dimen>
+    <dimen name="super_vip_layout_margin_top">55dp</dimen>
+    <dimen name="normal_vip_rights_iv_width">80dp</dimen>
+    <dimen name="normal_vip_rights_tv_margin_top">22dp</dimen>
+
+   <!-- <dimen name="user_exp_empty_tip_font_size">22sp</dimen>
+    <dimen name="user_read_exp_grid_item_height">38dp</dimen>
+    <dimen name="read_exp_type_padding_bottom">25dp</dimen>
+    <dimen name="read_exp_type_padding_top">45dp</dimen>
+    <dimen name="read_exp_tv_margin_bottom">30dp</dimen>
+    <dimen name="read_exp_author_padding_top">40dp</dimen>
+    <dimen name="user_read_exp_default_height">125dp</dimen>-->
+    <dimen name="user_experience_avatar_size">130dp</dimen>
+    <!--<dimen name="user_exp_duration_marginBottom">50dp</dimen>
+    <dimen name="user_duration_width">160dp</dimen>
+    <dimen name="user_duration_spacing">89dp</dimen>
+    <dimen name="read_exp_grid_item_space">25dp</dimen>
+    <dimen name="coupon_item_height">119dp</dimen>
+    <dimen name="font_size_coupon_item_title">26sp</dimen>-->
+    <dimen name="font_size_gift_edit">26sp</dimen>
+    <dimen name="font_size_gift_submit">24sp</dimen>
+    <!--<dimen name="font_size_gift_tips">23sp</dimen>-->
+   <!-- <dimen name="item_two_line_paddingTop">26dp</dimen>
+    <dimen name="item_two_line_paddingBottom">26dp</dimen>-->
+    <!--<dimen name="font_size_charge_record_title">24sp</dimen>-->
+    <!--<dimen name="font_size_charge_record_des">20sp</dimen>-->
+    <!--<dimen name="font_size_bookitem_cover_width">87dp</dimen>-->
+    <!--<dimen name="font_size_bookitem_cover_height">116dp</dimen>-->
+    <!--<dimen name="recharge_history_item_padding_top">27dp</dimen>
+    <dimen name="recharge_history_item_padding_bottom">27dp</dimen>
+    <dimen name="font_size_file_item_first_line">24sp</dimen>
+    <dimen name="font_size_file_item_second_line">20sp</dimen>
+    <dimen name="consumption_record_item_spaceX">150dp</dimen>
+    <dimen name="consumption_detail_item__paddingTop">22dp</dimen>
+    <dimen name="consumption_detail_item__paddingBottom">22dp</dimen>-->
+    <dimen name="font_size_vip_rights_item_twenty_two">18sp</dimen>
+    <dimen name="font_size_super_vip_rights_tips_twenty">20sp</dimen>
+    <dimen name="super_vip_rights_tips_margin_top">40dp</dimen>
+    <!--<dimen name="photo_ad_item_space">60px</dimen>-->
+
+    <!--<dimen name="settlement_item_cover_width">75dp</dimen>
+    <dimen name="settlement_item_cover_height">106dp</dimen>
+    <dimen name="order_settlement_item_height">118dp</dimen>
+    <dimen name="ActionBar.Height">130dp</dimen>-->
+    <!--<dimen name="actionbar_height">65dp</dimen>-->
+    <!--<dimen name="search_item_book_name_size">24sp</dimen>
+    <dimen name="search_item_book_detail_size">20sp</dimen>
+    <dimen name="shopping_cart_item_height">144dp</dimen>
+    <dimen name="font_size_bookitem_with_cover_paddingtop">14dp</dimen>
+    <dimen name="font_size_bookitem_with_cover_paddingbottom">14dp</dimen>
+    <dimen name="local_export_book_select_padding_right">20dp</dimen>
+    <dimen name="order_layout_paddingTop">30dp</dimen>-->
+    <!--<dimen name="font_size_order_content">24sp</dimen>-->
+    <!--<dimen name="order_item_top_margin">15dp</dimen>-->
+    <!--<dimen name="order_vip_btn_margin_top">50dp</dimen>-->
+    <!--<dimen name="order_qr_marginBottom">25dp</dimen>-->
+    <!--<dimen name="pay_type_horizontal_spacing">20dp</dimen>-->
+    <!--<dimen name="qr_image_size">240dp</dimen>-->
+    <!--<dimen name="qr_include_vip_height">100dp</dimen>-->
+    <!--<dimen name="order_settlement_item_padding">26dp</dimen>
+    <dimen name="shopping_cart_favourable_height">60dp</dimen>
+    <dimen name="shopping_cart_list_bottom_margin">19dp</dimen>
+    <dimen name="shopping_cart_btn_pay_height">54dp</dimen>
+    <dimen name="order_settlement_pay_bottom_margin">15dp</dimen>
+    <dimen name="font_size_shopping_cart_promotion">22sp</dimen>-->
+    <!--<dimen name="font_size_net_error_title">28sp</dimen>-->
+    <!--<dimen name="font_size_net_error_subtitle">26sp</dimen>-->
+    <!--<dimen name="shopping_settlement_bill_marginBottom">10dp</dimen>-->
+    <!--<dimen name="font_size_store_bookdetail_h">24sp</dimen>-->
+    <!--<dimen name="font_size_shopping_settlement_num">28sp</dimen>
+    <dimen name="shopping_cart_preferentail_height">30dp</dimen>
+    <dimen name="font_size_shopping_cart_preferential">20sp</dimen>
+    <dimen name="benefit_progress_height">30dp</dimen>-->
+    <dimen name="user_view_height">149dp</dimen>
+    <dimen name="user_sign_width">113dp</dimen>
+    <dimen name="user_sign_height">43dp</dimen>
+
+    <dimen name="mine_tool_item_width">120dp</dimen>
+    <dimen name="mine_tool_item_icon_width">67dp</dimen>
+    <dimen name="mine_tool_item_icon_height">67dp</dimen>
+    <dimen name="welfare_sign_width">105dp</dimen>
+    <dimen name="welfare_sign_height">40dp</dimen>
+
+
+    <dimen name="mine_dimen_480">480dp</dimen>
+    <dimen name="mine_dimen_217">217dp</dimen>
+    <dimen name="mine_dimen_200">200dp</dimen>
+    <dimen name="mine_dimen_130">130dp</dimen>
+    <dimen name="mine_dimen_121">121dp</dimen>
+    <dimen name="mine_dimen_103">103dp</dimen>
+    <dimen name="mine_dimen_100">100dp</dimen>
+    <dimen name="mine_dimen_92">92dp</dimen>
+    <dimen name="mine_dimen_90">90dp</dimen>
+    <dimen name="mine_dimen_81">81dp</dimen>
+    <dimen name="mine_dimen_79">79dp</dimen>
+    <dimen name="mine_dimen_68">68dp</dimen>
+    <dimen name="mine_dimen_67">67dp</dimen>
+    <dimen name="mine_dimen_62">62dp</dimen>
+    <dimen name="mine_dimen_60">60dp</dimen>
+    <dimen name="mine_dimen_54">54dp</dimen>
+    <dimen name="mine_dimen_53">53dp</dimen>
+    <dimen name="mine_dimen_52">52dp</dimen>
+    <dimen name="mine_dimen_50">50dp</dimen>
+    <dimen name="mine_dimen_43">43dp</dimen>
+    <dimen name="mine_dimen_40">40dp</dimen>
+    <dimen name="mine_dimen_38">38dp</dimen>
+    <dimen name="mine_dimen_35">35dp</dimen>
+    <dimen name="mine_dimen_33">33dp</dimen>
+    <dimen name="mine_dimen_32">32dp</dimen>
+    <dimen name="mine_dimen_30">30dp</dimen>
+    <dimen name="mine_dimen_27">27dp</dimen>
+    <dimen name="mine_dimen_25">25dp</dimen>
+    <dimen name="mine_dimen_23">23dp</dimen>
+    <dimen name="mine_dimen_21">21dp</dimen>
+    <dimen name="mine_dimen_20">20dp</dimen>
+    <dimen name="mine_dimen_18">18dp</dimen>
+    <dimen name="mine_dimen_16">16dp</dimen>
+    <dimen name="mine_dimen_14">14dp</dimen>
+    <dimen name="mine_dimen_13">13dp</dimen>
+    <dimen name="mine_dimen_12">12dp</dimen>
+    <dimen name="mine_dimen_10">10dp</dimen>
+    <dimen name="mine_dimen_8">8dp</dimen>
+    <dimen name="mine_dimen_6">6dp</dimen>
+    <dimen name="mine_dimen_5">5dp</dimen>
+    <dimen name="mine_dimen_1">1dp</dimen>
+    <dimen name="mine_dimen_half">0.5dp</dimen>
+
+
+    <dimen name="mine_sp_42">42sp</dimen>
+    <dimen name="mine_sp_30">30sp</dimen>
+    <dimen name="mine_sp_25">25sp</dimen>
+    <dimen name="mine_sp_24">22sp</dimen>
+    <dimen name="mine_sp_23">23sp</dimen>
+    <dimen name="mine_sp_22">22sp</dimen>
+    <dimen name="mine_sp_20">20sp</dimen>
+    <dimen name="mine_sp_19">19sp</dimen>
+    <dimen name="mine_sp_18">18sp</dimen>
+    <dimen name="mine_sp_15">15sp</dimen>
+    <dimen name="mine_page_item_height">70dp</dimen>
+    <dimen name="mine_item_primary_text_size">22dp</dimen>
+    <dimen name="mine_item_more_text_size">18dp</dimen>
+    <dimen name="mine_item_sub_text_size">16dp</dimen>
+    <dimen name="mine_user_info_margin_top">20dp</dimen>
+
+    <dimen name="mine_user_account_status_margin_top">30dp</dimen>
+    <dimen name="mine_user_functions_status_margin_top">10dp</dimen>
+
+    <dimen name="mine_user_privilege_svip_item_width">100</dimen>
+    <dimen name="mine_user_privilege_svip_item_height">35dp</dimen>
+    <dimen name="mine_function_margin_to_prorperty_top">0dp</dimen>
+    <dimen name="mine_function_item_icon_margin_text">10dp</dimen>
+
+    <dimen name="user_info_property_title_margin_top">20dp</dimen>
+    <dimen name="user_info_property_title_margin_bottom">20dp</dimen>
+    <dimen name="user_info_all_item_margin_left">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="user_info_all_item_margin_right">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="user_info_primary_margin_left">@dimen/user_info_all_item_margin_left</dimen>
+    <dimen name="user_info_primary_margin_right">@dimen/user_info_all_item_margin_right</dimen>
+    <dimen name="vip_tag_size_width">32dp</dimen>
+    <dimen name="vip_tag_size_height">32dp</dimen>
+    <dimen name="vip_sign_tag_width">53dp</dimen>
+    <dimen name="vip_isvip_sign_tag_height">49dp</dimen>
+    <dimen name="vip_tag_margin_text">18dp</dimen>
+    <dimen name="vip_isvip_tag_margin_text">15dp</dimen>
+    <dimen name="primary_title_margin_sub_title">7dp</dimen>
+    <dimen name="user_read_num_margin_top">13dp</dimen>
+    <dimen name="user_read_num_margin_bottom">13dp</dimen>
+    <dimen name="user_property_margin_bottom">20dp</dimen>
+    <dimen name="user_property_count_margin_divider">32dp</dimen>
+    <dimen name="user_property_margin_top">13dp</dimen>
+    <dimen name="user_preperty_margin_charge_ad">22dp</dimen>
+    <dimen name="user_charge_ad_margin_charge_btn">13dp</dimen>
+    <dimen name="user_charge_sign_padding_hor">10dp</dimen>
+    <dimen name="user_charge_sign_padding_ver">4dp</dimen>
+    <dimen name="vip_status_bar_height">77dp</dimen>
+    <dimen name="vip_status_bar_star_margin_bottom">6dp</dimen>
+    <dimen name="read_divider_margin_top">25dp</dimen>
+    <dimen name="read_divider_margin_bottom">25dp</dimen>
+
+    <dimen name="dialog_signt_width">555dp</dimen>
+    <dimen name="dialog_signt_height">727dp</dimen>
+
+    <dimen name="dialog_signted_width">555dp</dimen>
+    <dimen name="dialog_signted_height">550dp</dimen>
+
+    <dimen name="dialog_signt_grid_view_spacing">30dp</dimen>
+    <dimen name="dialog_signt_grid_view_padding_left">20dp</dimen>
+    <dimen name="dialog_signt_grid_view_padding_right">20dp</dimen>
+    <dimen name="dialog_signt_grid_view_padding_top">35dp</dimen>
+    <dimen name="dialog_signt_user_sign_iv">0dp</dimen>
+
+    <dimen name="dialog_signt_user_title_padding_top">80dp</dimen>
+    <dimen name="dialog_signt_user_sub_title_padding_bottom">0dp</dimen>
+    <dimen name="dialog_signt_user_sub_title_padding_top">20dp</dimen>
+    <dimen name="dialog_signt_title_size">20dp</dimen>
+    <dimen name="daily_welfare_title_width">380dp</dimen>
+    <dimen name="daily_welfare_time_welfare_line_margin_right">20dp</dimen>
+    
+    <dimen name="user_property_detail_margin_left">100dp</dimen>
+    <dimen name="user_property_detail_margin_right">100dp</dimen>
+    <dimen name="user_property_detail_margin_top">15dp</dimen>
+    <dimen name="user_property_detail_width">180dp</dimen>
+    <dimen name="user_property_primary_margin_sub">3dp</dimen>
+    <dimen name="user_property_charge_margin_top">20dp</dimen>
+    <dimen name="user_property_charge_margin_bottom">15dp</dimen>
+    <dimen name="user_property_charge_margin_left">70dp</dimen>
+    <dimen name="user_property_charge_margin_right">70dp</dimen>
+    <dimen name="user_property_charge_padding_vertical">14dp</dimen>
+    <dimen name="user_property_coupon_margin_expire">13dp</dimen>
+    <dimen name="user_property_coupon_divider_expire_padding">13dp</dimen>
+    <dimen name="user_property_item_height">70dp</dimen>
+    
+    <dimen name="user_bought_book_img_width">87dp</dimen>
+    <dimen name="user_bought_book_img_height">116dp</dimen>
+    <dimen name="user_bought_book_item_margin_top">8dp</dimen>
+    <dimen name="user_bought_book_item_margin_bottom">8dp</dimen>
+    <dimen name="user_bought_book_item_margin_right">10dp</dimen>
+    
+    <dimen name="user_vip_status_more_tag_margin_text">8dp</dimen>
+    <dimen name="daily_welfare_desc_max_width">500dp</dimen>
+    <dimen name="sign_git_width">120dp</dimen>
+    <dimen name="sign_no_git_width">90dp</dimen>
+    <dimen name="tool_function_title_margin_left">20dp</dimen>
+
+    <dimen name="mine_tools_padding_top_first">14dp</dimen>
+    <dimen name="mine_tools_padding_top_common">33dp</dimen>
+    <dimen name="mine_tools_block_title_margin_element">16dp</dimen>
+    <dimen name="mine_tools_block_interval_lines">20dp</dimen>
+    <dimen name="mine_tools_block_title_margin_left">43dp</dimen>
+
+    <dimen name="fee_qr_padding_left">10dp</dimen>
+    <dimen name="fee_qr_padding_right">10dp</dimen>
+    <dimen name="fee_qr_pay_type_margin_text">5dp</dimen>
+    <dimen name="fee_qr_code_marging_top">20dp</dimen>
+    <dimen name="fee_qr_more_option_marging_top">20dp</dimen>
+    <dimen name="fee_qr_pay_type_width">90dp</dimen>
+    <dimen name="daily_welfare_sign_width">300dp</dimen>
+
+    <dimen name="user_tool_margin_bottom">20dp</dimen>
+
+    <dimen name="user_setting_physical_simbal_margin_top">30dp</dimen>
+    <dimen name="user_setting_physical_simbal_margin_bottom">20dp</dimen>
+
+    <dimen name="item_select_dialog_item_margin">20dp</dimen>
+    <dimen name="item_select_dialog_margin_top">0dp</dimen>
+    <dimen name="item_select_dialog_margin_bottom">20dp</dimen>
+    <dimen name="item_select_title_height">91dp</dimen>
+    <dimen name="item_select_dialog_item_margin_top">10dp</dimen>
+    <dimen name="item_select_dialog_item_margin_bottom">10dp</dimen>
+    <dimen name="item_select_dialog_item_padding_left">50dp</dimen>
+
+    <dimen name="select_dialog_title_size">28sp</dimen>
+    <dimen name="item_select_dialog_title_size">24sp</dimen>
+    <dimen name="item_select_dialog_content_size">18sp</dimen>
+
+    <dimen name="user_info_group_head_avator_margin_top">15dp</dimen>
+    <dimen name="user_info_group_head_name_margin_avator">10dp</dimen>
+    <dimen name="user_info_group_head_read_time_margin_name">8dp</dimen>
+    <dimen name="user_info_group_name_size">29sp</dimen>
+    <dimen name="user_info_group_read_time_size">21sp</dimen>
+    <dimen name="user_info_avator_size">93dp</dimen>
+
+    <dimen name="user_info_page_vip_end_time_margin_left">16dp</dimen>
+    <dimen name="user_info_vip_status_text_margin_icon">5dp</dimen>
+    <dimen name="user_info_vip_status_text_size">24sp</dimen>
+    <dimen name="user_info_end_time_text_size">21sp</dimen>
+    <dimen name="user_info_charge_text_size">18sp</dimen>
+
+    <dimen name="user_info_setting_loginout_pading_ver">20dp</dimen>
+    <dimen name="user_info_setting_loginout_margin_hor">70dp</dimen>
+    <dimen name="user_info_setting_loginout_margin_bottom">50dp</dimen>
+
+    <dimen name="welfare_sign_tag_margin_left">45dp</dimen>
+    <dimen name="welfare_sign_tips_margin_left">18dp</dimen>
+    <dimen name="welfare_sign_tips_margin_top">31dp</dimen>
+    <dimen name="welfare_sign_tips_margin_bottom">29dp</dimen>
+    <dimen name="welfare_sign_tips_desc_margin_title">10dp</dimen>
+    <dimen name="welfare_sign_btn_margin_right">45dp</dimen>
+    <dimen name="welfare_sign_tip_title_size">23sp</dimen>
+    <dimen name="welfare_sign_tip_desc_size">18sp</dimen>
+    <dimen name="welfare_sign_btn_size">20sp</dimen>
+
+    <!--实用工具-->
+    <integer name="market_app_page_size">20</integer>
+
+    <dimen name="vocabulary_item_vertical_padding">13dp</dimen>
+</resources>

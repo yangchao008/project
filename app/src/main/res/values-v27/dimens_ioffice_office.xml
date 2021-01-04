@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ioffice_office_line_height">1px</dimen>
+
+    <dimen name="ioffice_office_base_stoken_width">1px</dimen>
+
+    <dimen name="ioffice_office_base_radius_width">1px</dimen>
+
+    <dimen name="ioffice_office_read_menu_empty_tv_paddingbottom">160dp</dimen>
+
+    <dimen name="ioffice_office_font_size_chap_sub_title">26sp</dimen>
+
+    <dimen name="ioffice_office_divider_line_width_1px">1px</dimen>
+
+    <dimen name="ioffice_office_font_size_26">26sp</dimen>
+
+    <dimen name="ioffice_office_read_bottom_info_height">52dp</dimen>
+
+    <dimen name="ioffice_office_font_size_dialog_content">26sp</dimen>
+
+    <dimen name="ioffice_office_annotation_detail_content">24sp</dimen>
+
+    <dimen name="ioffice_office_dash_divider_height">0px</dimen>
+
+    <dimen name="ioffice_office_pdf_list_margin_left">25dp</dimen>
+
+    <dimen name="ioffice_office_pdf_list_margin_right">25dp</dimen>
+
+    <dimen name="ioffice_office_chap_list_title_height">73dp</dimen>
+
+    <dimen name="ioffice_office_activity_horn_padding">30dp</dimen>
+
+    <dimen name="ioffice_office_font_size_dialog_title">26sp</dimen>
+
+    <dimen name="ioffice_office_edit_text_padding">5dp</dimen>
+
+    <dimen name="ioffice_office_font_size_toolbar_search">26sp</dimen>
+
+    <dimen name="ioffice_office_dialog_loading_height">125dp</dimen>
+
+    <dimen name="ioffice_officec_dialog_loading_width">190dp</dimen>
+
+    <dimen name="ioffice_office_item_single_line_height">100dp</dimen>
+
+    <dimen name="ioffice_office_chap_annotation_original_text_size">24sp</dimen>
+
+    <dimen name="ioffice_office_chap_item_annotation_original_text_margin_top">20dp</dimen>
+
+    <dimen name="ioffice_office_chap_annotation_book_text_size">26sp</dimen>
+
+    <dimen name="ioffice_office_chap_item_annotation_margin_top">15dp</dimen>
+
+    <dimen name="ioffice_office_read_bottom_info_page_size">18sp</dimen>
+
+    <dimen name="ioffice_office_zoom_rate_width">45dp</dimen>
+
+    <dimen name="ioffice_office_zoom_control_size">50dp</dimen>
+
+    <dimen name="ioffice_office_chap_annotation_note_text_size">20sp</dimen>
+
+    <dimen name="ioffice_office_chap_item_annotation_margin_bottom">35dp</dimen>
+
+    <dimen name="ioffice_office_font_local_note_item_des">@dimen/font_local_note_item_des</dimen>
+
+    <dimen name="ioffice_office_pdf_item_tag_width">20dp</dimen>
+
+    <dimen name="ioffice_office_chap_tag_margin_content">10dp</dimen>
+
+    <dimen name="ioffice_office_chap_list_item_chap_height">70dp</dimen>
+
+    <dimen name="ioffice_office_dialog_big_width">600dp</dimen>
+
+    <dimen name="ioffice_office_chapter_thumbnail_width">275dp</dimen>
+
+    <dimen name="ioffice_office_chapter_thumbnail_height">275dp</dimen>
+
+    <dimen name="ioffice_office_chap_list_tab_height">50dp</dimen>
+
+    <dimen name="ioffice_office_font_size_search_item_content">24sp</dimen>
+
+    <dimen name="ioffice_office_search_item_height">72dp</dimen>
+
+    <dimen name="ioffice_office_item_two_line_padding">@dimen/item_two_line_padding</dimen>
+
+    <dimen name="ioffice_office_font_local_note_item_name">@dimen/font_local_note_item_name</dimen>
+    <dimen name="ioffice_office_systembar_height">49dp</dimen>
+    <dimen name="ioffice_office_fragment_catalog_empty_font">26sp</dimen>
+    <dimen name="ioffice_office_fragment_catalog_empty_padding">160dp</dimen>
+    <dimen name="ioffice_office_book_chap_list_item_reading_size">23sp</dimen>
+    <dimen name="ioffice_office_chap_title_margin_top">5dp</dimen>
+    <dimen name="ioffice_office_chap_title_margin_bottom">5dp</dimen>
+    <dimen name="ioffice_office_chap_tab_margin_top">5dp</dimen>
+    <dimen name="ioffice_office_chap_tab_margin_bottom">10dp</dimen>
+    <dimen name="ioffice_office_item_line_padding_top">15dp</dimen>
+    <dimen name="ioffice_office_item_line_padding_bottom">@dimen/ioffice_office_item_line_padding_top</dimen>
+    <dimen name="ioffice_office_cloud_note_item_padding_top">@dimen/ioffice_office_item_line_padding_top</dimen>
+    <dimen name="ioffice_office_read_menu_pdf_space">31dp</dimen>
+    <dimen name="ioffice_office_read_menu_pdf_padding_top">24dp</dimen>
+    <dimen name="ioffice_office_read_menu_pdf_padding_bottom">34dp</dimen>
+    <dimen name="ioffice_office_pdf2_padding_margin_26">26dp</dimen>
+    <dimen name="ioffice_office_pdf2_crop_notice_icon_width">25dp</dimen>
+    <dimen name="ioffice_office_pdf2_padding_margin_42">42dp</dimen>
+    <dimen name="ioffice_office_pdf2_crop_notice_layout_height">70dp</dimen>
+    <dimen name="ioffice_office_book_chap_list_item_padding">30dp</dimen>
+    <dimen name="ioffice_office_book_chap_list_current_paddingLeft">40dp</dimen>
+    <dimen name="ioffice_office_cloud_note_item_padding_bottom">@dimen/ioffice_office_item_line_padding_bottom</dimen>
+    <dimen name="ioffice_office_font_size_read_menu">21sp</dimen>
+    <dimen name="ioffice_office_pdf_menu_next_page_paddingleft">34dp</dimen>
+    <dimen name="ioffice_office_pdf_menu_next_page_paddingright">36dp</dimen>
+    <dimen name="ioffice_office_pdf_menu_pre_page_paddingright">50dp</dimen>
+    <dimen name="ioffice_office_dialog_content_min_height">106dp</dimen>
+    <dimen name="ioffice_office_pdf_password_et_width">320dp</dimen>
+    <dimen name="ioffice_office_font_pdf_password_et">26sp</dimen>
+    <dimen name="ioffice_docview_read_bottom_info_page_margin">52dp</dimen>
+    <dimen name="ioffice_docview_read_bottom_room_marin_horizontal">100dp</dimen>
+    <dimen name="ioffice_docview_bookmark_width">28dp</dimen>
+    <dimen name="ioffice_docview_bookmark_height">40dp</dimen>
+    <dimen name="ioffice_docview_bookmark_margin">30dp</dimen>
+    <dimen name="ioffice_office_pdf2_crop_rect_line_width">1dp</dimen>
+    <dimen name="ioffice_office_pdf2_crop_rect_corner_width">3dp</dimen>
+    <dimen name="ioffice_office_pdf2_crop_rect_marging">17dp</dimen>
+    <dimen name="ioffice_office_pdf2_crop_rect_corner_length">20dp</dimen>
+
+    <dimen name="ioffice_office_menu_title_textsize">11sp</dimen>
+    <dimen name="ioffice_office_menu_sub_textsize">@dimen/ioffice_office_menu_title_textsize</dimen>
+    <dimen name="ioffice_office_read_hw_container_divider_size">10dp</dimen>
+    <dimen name="ioffice_office_paint_label_textsize">11sp</dimen>
+    <dimen name="font_size_chap_list_item">@dimen/book_chap_list_item_reading_size</dimen>
+    <dimen name="ioffice_office_item_pdf_chap_secondary_margin_start">30dp</dimen>
+    <dimen name="ioffice_office_item_pdf_chap_third_margin_start">60dp</dimen>
+    <dimen name="ioffice_office_chaplist_expand_all_height">76dp</dimen>
+
+    <dimen name="ioffice_office_tool_bar_height">0dp</dimen>
+
+    <dimen name="read_pop_progress_seekbar_horizontal_margin">@dimen/read_toolbar_padding</dimen>
+    <dimen name="ioffice_office_progress_reset_drawable_padding">8dp</dimen>
+
+</resources>

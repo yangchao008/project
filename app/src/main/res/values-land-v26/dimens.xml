@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="audio_menu_container_width">526dp</dimen>
+    <dimen name="audio_menu_container_padding_horizontal">6dp</dimen>
+    <dimen name="audio_menu_container_padding_vertical">0dp</dimen>
+    <dimen name="audio_menu_item_height">73dp</dimen>
+
+    <dimen name="dialog_big_width">556dp</dimen>
+    <dimen name="dialog_big_height_x">636dp</dimen>
+    <dimen name="dialog_pay_height">636dp</dimen>
+</resources>

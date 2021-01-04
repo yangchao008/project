@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <dimen name="plgmc_controller_title_text_size">23sp</dimen>
+    <dimen name="plgmc_controller_base_text_size">20sp</dimen>
+    <dimen name="plgmc_controller_action_padding">90dp</dimen>
+
+</resources>

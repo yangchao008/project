@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="share_font_size_wifi_transfer_book_title">24sp</dimen>
+    <dimen name="share_qr_image_size">223dp</dimen>
+    <dimen name="share_dialog_width">517dp</dimen>
+    <dimen name="share_font_size_wifi_transfer_tips">24sp</dimen>
+    <dimen name="share_font_size_margin">70dp</dimen>
+    <dimen name="share_bottom_desc_horizontal_margin">70dp</dimen>
+    <dimen name="share_bottom_desc_horizontal_margin_bottom">75dp</dimen>
+    <dimen name="share_tips_height">80dp</dimen>
+    <dimen name="share_font_num_top">@dimen/padding_40</dimen>
+
+    <dimen name="share_qrcode_padding">@dimen/Base.Padding20</dimen>
+    <dimen name="share_ima_margin_top">40dp</dimen>
+</resources>

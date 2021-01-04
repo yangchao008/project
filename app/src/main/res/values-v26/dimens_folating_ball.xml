@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="float_ball_window_width">520dp</dimen>
+    <dimen name="float_ball_window_height">620dp</dimen>
+
+    <dimen name="float_ball_quick_item_width">105dp</dimen>
+    <dimen name="float_ball_quick_item_height">79dp</dimen>
+    <dimen name="float_ball_quick_grid_vertical_spacing">40dp</dimen>
+    <dimen name="float_ball_book_grid_vertical_spacing">35dp</dimen>
+    <dimen name="float_ball_book_grid_padding_left">50dp</dimen>
+    <dimen name="float_ball_book_grid_padding_top">25dp</dimen>
+    <dimen name="float_ball_open_bg_line_width">1.5dp</dimen>
+    <dimen name="float_ball_settings_top_icon_padding">8dp</dimen>
+
+    <dimen name="float_ball_title_text_size">26sp</dimen>
+    <dimen name="float_ball_item_text_size">22sp</dimen>
+    <dimen name="float_ball_quick_tip_text_size">23sp</dimen>
+
+    <dimen name="float_ball_more_icon_width">60dp</dimen>
+    <dimen name="float_ball_more_icon_space_width">8dp</dimen>
+    <dimen name="float_ball_more_layout_padding">8dp</dimen>
+    <dimen name="float_ball_more_layout_radius">38dp</dimen>
+
+    <dimen name="float_ball_custom_tip_text_size">20sp</dimen>
+</resources>

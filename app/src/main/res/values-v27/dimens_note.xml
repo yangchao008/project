@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="note_book_info_text_size">18</integer>
+
+    <dimen name="theme_bookdetail_book_width">160dp</dimen>
+    <dimen name="theme_bookdetail_book_heigh">214dp</dimen>
+    <dimen name="theme_bookdetail_book_margin">35dp</dimen>
+    <dimen name="theme_dialog_book_detail_item_hei">50dp</dimen>
+    <dimen name="theme_dialog_book_detail_item_margin_top">40dp</dimen>
+    <dimen name="theme_dialog_book_detail_item_margin_bottom">40dp</dimen>
+
+    <dimen name="theme_office_padding">20dp</dimen>
+    <dimen name="dialog_note_theme_width">554dp</dimen>
+    <dimen name="dialog_note_theme_height">277dp</dimen>
+
+    <dimen name="note_item_padding">25dp</dimen>
+    <dimen name="note_item_divider_padding">18dp</dimen>
+</resources>

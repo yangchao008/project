@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <dimen name="baidu_netpan_file_list_item_padding_top">6dp</dimen>
+    <dimen name="baidu_netpan_file_list_item_padding_bottom">6dp</dimen>
+    <dimen name="baidu_netpan_file_list_item_padding_start">29dp</dimen>
+    <dimen name="baidu_netpan_file_list_item_padding_end">29dp</dimen>
+
+    <integer name="page_count_baidu_netpan_file">5</integer>
+    <integer name="page_count_baidu_netpan_browse_file">6</integer>
+
+    <dimen name="baidu_netpan_file_image_preview_width">500dp</dimen>
+    <dimen name="baidu_netpan_file_image_preview_height">550dp</dimen>
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_margin_size">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="font_local_note_item_des">18sp</dimen>
+    <dimen name="item_two_line_padding">6dp</dimen>
+    <dimen name="font_local_note_item_name">20sp</dimen>
+
+    <dimen name="tool_bal_margin_left">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="tool_bal_margin_right">0dp</dimen>
+    <dimen name="divider_line_width_1px">1px</dimen>
+    <dimen name="book_chap_list_item_reading_size">22sp</dimen>
+
+    <dimen name="bookshelf_list_padding_left">45dp</dimen>
+    <dimen name="bookshelf_list_padding_right">85dp</dimen>
+    <dimen name="cloud_note_item_padding_bottom">@dimen/item_line_padding_bottom</dimen>
+    <dimen name="cloud_note_item_padding_top">@dimen/item_line_padding_top</dimen>
+    <dimen name="item_line_padding_bottom">@dimen/ioffice_office_item_line_padding_bottom</dimen>
+    <dimen name="item_line_padding_top">@dimen/ioffice_office_item_line_padding_top</dimen>
+
+    <dimen name="recovery_shelf_item_padding_top">20dp</dimen>
+    <dimen name="recovery_shelf_item_padding_bottom">20dp</dimen>
+    <dimen name="font_size_read_menu_jump">23sp</dimen>
+    <dimen name="note_theme_category_margin">85dp</dimen>
+    <dimen name="office_note_theme_category_margin">50dp</dimen>
+    <dimen name="hw_office_theme_item_portrait_ver_spacing">30dp</dimen>
+    <dimen name="hw_office_theme_item_width">150dp</dimen>
+    <dimen name="hw_office_theme_item_height">250dp</dimen>
+    <dimen name="hw_office_theme_item_margin">95dp</dimen>
+    <dimen name="hw_office_theme_item_padding">40dp</dimen>
+    <dimen name="hw_office_theme_width">695dp</dimen>
+    <dimen name="hw_office_theme_height">765dp</dimen>
+    <dimen name="hw_office_theme_vertical_spacing">20dp</dimen>
+
+    <dimen name="bottom_bar_margin_right">50dp</dimen>
+    <dimen name="list_page_margin_top">20dp</dimen>
+
+    <dimen name="auth_window_height">694dp</dimen>
+    <dimen name="auth_window_width">556dp</dimen>
+    <dimen name="dialog_oauth_title_layout_padding_top">12dp</dimen>
+    <dimen name="dialog_oauth_title_layout_padding_bottom">12dp</dimen>
+    <dimen name="dialog_oauth_title_font_size">24sp</dimen>
+    <dimen name="dialog_oauth_close_button_width">43dp</dimen>
+    <dimen name="dialog_oauth_close_button_height">43dp</dimen>
+    <dimen name="dialog_oauth_close_button_padding">5dp</dimen>
+    <dimen name="dialog_oauth_close_button_margin_end">20dp</dimen>
+    <dimen name="dialog_oauth_loading_container_width">190dp</dimen>
+    <dimen name="dialog_oauth_loading_container_height">125dp</dimen>
+    <dimen name="dialog_oauth_loading_min_width">86dp</dimen>
+    <dimen name="dialog_oauth_loading_min_height">61dp</dimen>
+
+    <dimen name="book_detail_chap_margin_bottom">13.3dp</dimen>
+    <dimen name="book_detail_comment_margin_bottom">13.3dp</dimen>
+    <dimen name="book_detail_recommand_title_margin_bottom">13.3dp</dimen>
+    <dimen name="book_detail_head_margin_top">20dp</dimen>
+    <dimen name="book_shelf_title_top">0dp</dimen>
+    <dimen name="condition_filter_margin_hor">17dp</dimen>
+    <dimen name="float_note_container_padding">3dp</dimen>
+    <dimen name="float_note_container_width">573dp</dimen>
+    <dimen name="float_note_container_height">818dp</dimen>
+    <dimen name="theme_note_container_width">810dp</dimen>
+    <dimen name="theme_note_container_height">1080dp</dimen>
+    <dimen name="theme_note_trip_margin_left">60dp</dimen>
+    <dimen name="theme_note_trip_margin_bottom">20dp</dimen>
+    <dimen name="theme_note_trip_text_size">17sp</dimen>
+    <dimen name="knowledge_window_width_dualpanel">440dp</dimen>
+    <!-- 普通书籍全屏图的时候会被屏幕盖板遮住，所以当时加了10dp的边距。现在是排版引擎直接处理，所以不用加了 -->
+  <dimen name="bookview_margin">10px</dimen>
+
+    <dimen name="comment_content_margin_tag">20dp</dimen>
+
+    <dimen name="consumption_batch_item_height">@dimen/ioffice_office_chap_list_item_chap_height</dimen>
+  <dimen name="book_detail_more_text_size">20sp</dimen>
+  <dimen name="book_shelf_margin_top">1dp</dimen>
+  <dimen name="book_shelf_margin_bottom">5dp</dimen>
+  <dimen name="book_shelf_select_margin_bottom">5dp</dimen>
+
+    <dimen name="dialog_import_height">203dp</dimen>
+    <dimen name="dialog_import_padding_top">32dp</dimen>
+    <dimen name="dialog_import_padding_bottom">5dp</dimen>
+    <dimen name="dialog_import_item_drawable_padding">5dp</dimen>
+
+    <dimen name="store_pub_book_list_padding_top">0dp</dimen>
+
+    <dimen name="dialog_custom_group_height">40dp</dimen>
+</resources>

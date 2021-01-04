@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--这些参数都是在横屏下使用,与之对应的竖屏参数则可能会出现不同设备的差异性.但是因为横屏目前只有一个s103设备,与s102同参数,所以就直接放这儿了-->
+  <!--BookStoreBlockRecommendView 控件相关属性-->
+  <integer name="store_book_recommend_view_item_child_per_row">4</integer>
+  <dimen name="store_book_recommend_view_item_min_spacing_hor">100dp</dimen>
+  <dimen name="store_book_recommend_view_item_min_spacing_ver">155dp</dimen>
+  <integer name="store_book_recommend_view_item_max_row_count">2</integer>
+
+  <!--BookStoreBlockVerticalPhotoAdsView 样式相关属性-->
+  <integer name="store_book_vertical_photo_ads_item_child_per_row">5</integer>
+  <dimen name="store_book_vertical_photo_ads_item_min_spacing_hor">@dimen/photo_ad_item_space</dimen>
+  <dimen name="store_book_vertical_photo_ads_item_min_spacing_ver">20dp</dimen>
+  <integer name="store_book_vertical_photo_ads_item_max_row_count">3</integer>
+
+  <dimen name="photo_ad_item_space">150px</dimen>
+  <dimen name="book_category_list_padding_top">40dp</dimen>
+
+  <dimen name="store_booklist_list_divider_height">16dp</dimen>
+
+  <integer name="book_detail_relative_book_show_size">5</integer>
+</resources>

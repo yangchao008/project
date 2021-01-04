@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="user_info_avator_size">93dp</dimen>
+  <dimen name="mine_user_functions_status_tools">20dp</dimen>
+  <dimen name="wallpaper_thumbnail_width">200dp</dimen>
+  <dimen name="wallpaper_thumbnail_height">267dp</dimen>
+
+  <dimen name="cloud_note_page_indicator_textsize">20sp</dimen>
+</resources>

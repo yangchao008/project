@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="setting_read_page_second_margin_top">43dp</dimen>
+    <dimen name="setting_read_page_first_margin_top">33dp</dimen>
+    <dimen name="reader_menu_radio_button_selected_margin_top">0dp</dimen>
+    <dimen name="text_pager_indicator_button_padding">40dp</dimen>
+    <dimen name="text_pager_indicator_margin_bottom">20dp</dimen>
+    <dimen name="text_pager_indicator_text_size">20sp</dimen>
+    <dimen name="item_cloud_note_padding">35dp</dimen>
+    <dimen name="item_cloud_note_width">300dp</dimen>
+
+    <dimen name="add_pwd_set_pwd_prompt_margin_hor">40dp</dimen>
+    <integer name="add_pwd_setted_pwd_prompt">60</integer>
+    <dimen name="add_pwd_pwd_valid_input_unit_size">57dp</dimen>
+    <dimen name="add_pwd_pwd_valid_input_unit_text_size">35sp</dimen>
+
+    <dimen name="add_pwd_qr_retrive_pwd_qr_margin">21dp</dimen>
+    <dimen name="add_pwd_qr_retrive_pwd_prompt_text_size">22sp</dimen>
+    <dimen name="add_pwd_qr_retrive_refresh_qr_text_size">16sp</dimen>
+    <dimen name="add_pwd_qr_retrive_refresh_to_unlock">20sp</dimen>
+    <dimen name="add_pwd_qr_retrive_pwd_group_cornor_radius">0dp</dimen>
+    <dimen name="add_pwd_qr_retrive_pwd_group_border_width">1px</dimen>
+
+    <dimen name="add_pwd_text_size_btn">26sp</dimen>
+    <dimen name="add_pwd_text_size_primary_prompt">28sp</dimen>
+    <dimen name="add_pwd_text_size_secondary_prompt">24sp</dimen>
+
+    <dimen name="wallpaper_fragment_layout_list_padding_top">20dp</dimen>
+
+    <dimen name="contact_us_qr_width">228dp</dimen>
+    <dimen name="contact_us_qr_height">228dp</dimen>
+    <dimen name="contact_us_qr_padding">21dp</dimen>
+    <dimen name="instruction_book_qr_padding">17dp</dimen>
+    
+    <dimen name="add_pwd_theme_primary_text_size">24sp</dimen>
+    <dimen name="add_pwd_theme_secondary_text_size">22sp</dimen>
+
+    <dimen name="add_pwd_close_tag_margin_right">10dp</dimen>
+    <dimen name="add_pwd_close_tag_size">30dp</dimen>
+</resources>

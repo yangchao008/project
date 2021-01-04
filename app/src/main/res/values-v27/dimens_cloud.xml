@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="bottom_item_text_margin_icon">0dp</dimen>
+  <dimen name="bottom_item_text_size">16sp</dimen>
+  <dimen name="bottom_item_margin_top">5dp</dimen>
+  <dimen name="bottom_group_height">78dp</dimen>
+  <dimen name="under_options_title_text_size">20sp</dimen>
+</resources>

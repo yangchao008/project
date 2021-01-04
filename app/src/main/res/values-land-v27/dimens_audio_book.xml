@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!--BookAudioBlockRecommendWithDiscountView 控件相关属性-->
+  <integer name="audio_store_recommend_with_discount_child_per_row">4</integer>
+  <dimen name="audio_store_recommend_with_discount_min_spacing_hor">120dp</dimen>
+  <dimen name="audio_store_recommend_with_discount_min_spacing_ver">18dp</dimen>
+  <integer name="audio_store_recommend_with_max_row_count">2</integer>
+
+  <!--BookAudioBlockDiscountPriceView 控件相关属性-->
+  <integer name="audio_store_discount_price_max_row_count">2</integer>
+  <integer name="audio_store_discount_price_max_child_count_per_row">2</integer>
+  <integer name="audio_store_discount_price_min_child_count_per_row">2</integer>
+  <dimen name="audio_store_discount_price_min_spacing_hor">120dp</dimen>
+  <dimen name="audio_store_discount_price_min_spacing_ver">30dp</dimen>
+
+  <!--BookAudioBlockHorizontalTwoBookView 控件相关属性-->
+  <integer name="audio_store_hor_two_book_max_row_count">2</integer>
+  <integer name="audio_store_hor_two_book_max_child_count_per_row">2</integer>
+  <integer name="audio_store_hor_two_book_min_child_count_per_row">2</integer>
+  <dimen name="audio_store_hor_two_book_min_spacing_hor">120dp</dimen>
+  <dimen name="audio_store_hor_two_book_min_spacing_ver">30dp</dimen>
+
+  <!--BookAudioBlockOneAndFourView 控件相关属性-->
+  <integer name="audio_store_one_and_four_max_row_count">1</integer>
+  <integer name="audio_store_one_and_four_min_child_count_per_row">4</integer>
+  <integer name="audio_store_one_and_four_max_child_count_per_row">4</integer>
+  <dimen name="audio_store_one_and_four_min_spacing_ver">16dp</dimen>
+  <dimen name="audio_store_one_and_four_min_spacing_hor">120dp</dimen>
+
+  <!--BookAudioBlockRecommendView 控件相关信息-->
+  <integer name="audio_store_block_recommend_max_row_count">2</integer>
+  <integer name="audio_store_block_recommend_child_count_per_row">4</integer>
+  <dimen name="audio_store_block_recommend_min_spacing_ver">16dp</dimen>
+  <dimen name="audio_store_block_recommend_min_spacing_hor">120dp</dimen>
+</resources>

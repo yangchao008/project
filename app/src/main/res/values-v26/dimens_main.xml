@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="Radius_2">2dp</dimen>
+    <dimen name="Radius_5">5dp</dimen>
+    <dimen name="Radius_3">3dp</dimen>
+    <dimen name="Radius_4">4dp</dimen>
+    <dimen name="Radius_10">10dp</dimen>
+    <dimen name="shape_stroke_width">2dp</dimen>
+
+    <dimen name="paddingAccount_xlarge">18dp</dimen>
+    <dimen name="paddingAccount_large">12dp</dimen>
+    <dimen name="paddingAccount_normal">5dp</dimen>
+    <dimen name="paddingAccount_small">3dp</dimen>
+    <dimen name="layoutheight_login_banner">100dp</dimen>
+    <dimen name="layoutheight_login_platform_icon">42dp</dimen>
+    <dimen name="layoutheight_login_submit">42dp</dimen>
+    <dimen name="default_topBar_hei">70dp</dimen>
+
+    <dimen name="bookshelf_topBar_hei">120dp</dimen>
+    <dimen name="square_btn_hei">90dp</dimen>
+    <dimen name="square_btn_wid">124dp</dimen>
+    <dimen name="titlebar_btn_height">32dp</dimen>
+    <dimen name="titlebar_margin">8dp</dimen>
+    <dimen name="titlebar_margin_top">30dp</dimen>
+
+    <dimen name="ireader_pandding_12">12dp</dimen>
+
+    <dimen name="titlebar_margin_left">@dimen/Base.Root.PaddingLeft</dimen>
+
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_15">15dp</dimen>
+    <dimen name="padding_19">19dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_25">25dp</dimen>
+    <dimen name="padding_29">29dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_34">34dp</dimen>
+    <dimen name="padding_35">35dp</dimen>
+    <dimen name="padding_38">38dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_45">45dp</dimen>
+    <dimen name="padding_48">48dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_55">55dp</dimen>
+    <dimen name="padding_60">60dp</dimen>
+    <dimen name="padding_70">70dp</dimen>
+    <dimen name="padding_80">80dp</dimen>
+    <!--<dimen name="font_size_40">40sp</dimen>-->
+    <!--<dimen name="font_size_38">38sp</dimen>-->
+    <!--<dimen name="font_size_36">36sp</dimen>-->
+    <!--<dimen name="font_size_34">34sp</dimen>-->
+    <dimen name="font_size_32">32sp</dimen>
+    <!--<dimen name="font_size_30">30sp</dimen>-->
+    <dimen name="font_size_28">28sp</dimen>
+    <!--<dimen name="font_size_26">26sp</dimen>-->
+    <!--<dimen name="font_size_24">24sp</dimen>-->
+    <!--<dimen name="font_size_22">22sp</dimen>-->
+    <!--<dimen name="font_size_20">20sp</dimen>-->
+    <!--<dimen name="font_size_18">18sp</dimen>-->
+    <!--<dimen name="font_size_16">16sp</dimen>-->
+    <!--<dimen name="font_size_14">14sp</dimen>-->
+    <!--<dimen name="font_size_12">12sp</dimen>-->
+    <!--<dimen name="font_size_60">60sp</dimen>-->
+    <dimen name="titlebar_text_size">@dimen/Base.Font.Size.HS</dimen>
+    <dimen name="titlebar_left_ib_padding_right">125dp</dimen>
+    <dimen name="page_common_text_size">@dimen/Base.Font.Size.LL</dimen>
+    <dimen name="text_size_38">@dimen/Base.Font.Size.HS</dimen>
+    <dimen name="page_common_text_size_">@dimen/Base.Font.Size.L</dimen>
+    <dimen name="page_common_text_size__">@dimen/Base.Font.Size.M</dimen>
+    <dimen name="dialog_title_text_size">@dimen/Base.Font.Size.HL</dimen>
+    <dimen name="dialog_content_text_size">@dimen/Base.Font.Size.LL</dimen>
+    <dimen name="page_common_text_size1">@dimen/Base.Font.Size.L</dimen>
+
+
+
+    <!--<dimen name="Base.Font.Size.H">44sp</dimen>
+    <dimen name="Base.Font.Size.HS">38sp</dimen>
+
+    <dimen name="Base.Font.Size.LL">34sp</dimen>
+
+    
+<dimen name="Base.Font.Size.L">31sp</dimen>
+
+    <dimen name="Base.Font.Size.M">26sp</dimen>
+
+    <dimen name="Base.Font.Size.N">24sp</dimen>
+
+    <dimen name="Base.Font.Size.S">16sp</dimen>
+
+    <dimen name="Base.Font.Size.SS">12sp</dimen>
+
+    <dimen name="Base.Font.Size.T">6sp</dimen>-->
+
+    <!-- 书架底部栏的高度-->
+    <dimen name="bookshelf_bottom_bar_height">64dp</dimen>
+    <dimen name="bookshelf_item_height">157dp</dimen>
+    <dimen name="bookshelf_bookcover_width">100dp</dimen>
+    <dimen name="bookshelf_bookcover_heigh">135dp</dimen>
+    <dimen name="bookshelf_bookname_minimum_size">10sp</dimen>
+    <dimen name="bookshelf_titlebar_button_heigh">80dp</dimen>
+    <dimen name="bookshelf_home_top_padding">60dp</dimen>
+
+    <!-- 小号字体 -->
+    <dimen name="font_size_small">12dp</dimen>
+    <dimen name="font_size_small_">11dp</dimen>
+    <dimen name="font_size_small__">10dp</dimen>
+    <!-- 中号字体 -->
+    <dimen name="font_size_medium">15dp</dimen>
+    <dimen name="font_size_medium_">14dp</dimen>
+    <dimen name="font_size_medium__">13dp</dimen>
+    <!-- 大号字体 -->
+    <dimen name="font_size_large">18dp</dimen>
+    <dimen name="font_size_large_">17dp</dimen>
+    <dimen name="font_size_large__">16dp</dimen>
+    <dimen name="font_size_larger">20dp</dimen>
+    <dimen name="font_size_largest">22dp</dimen>
+
+    <dimen name="titlebar_textsize_btn">24sp</dimen>
+    <dimen name="titlebar_textsize_title">20sp</dimen>
+
+
+
+    <dimen name="divider_line_width_1dp">1dp</dimen>
+    <dimen name="divider_line_width_2dp">2dp</dimen>
+    <dimen name="tab_select_identifier">2dp</dimen>
+
+    <dimen name="actionbar_height">65dp</dimen>
+    <dimen name="activity_horn_padding">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="activity_top_margin">40dp</dimen>
+    <dimen name="list_item_hei">120dp</dimen>
+    <dimen name="list_item_selected_hei">120dp</dimen>
+    <dimen name="list_item_ver_marign">4dp</dimen>
+    <dimen name="setting_label_width">225dp</dimen>
+    <dimen name="dialog_width">800dp</dimen>
+    <dimen name="dialog_hor_padding">27dp</dimen>
+    <dimen name="search_item_book_width">202dp</dimen>
+    <dimen name="search_item_book_heigh">270dp</dimen>
+    <dimen name="bookdetail_book_width">154dp</dimen>
+    <dimen name="bookdetail_book_heigh">220dp</dimen>
+    <dimen name="search_item_second_margin_third">16dp</dimen>
+    <dimen name="search_item_second_margin_top">15dp</dimen>
+    <dimen name="search_item_second_margin_bottom">15dp</dimen>
+
+    <dimen name="search_condition_opts_margin_right">40dp</dimen>
+    <dimen name="search_condition_opts_cancel_margin_comfirn">50dp</dimen>
+    <dimen name="search_condition_opts_item_pandding_hor">30dp</dimen>
+    <dimen name="search_condition_opts_item_pandding_ver">9dp</dimen>
+    <dimen name="search_condition_opts_margin_top">12dp</dimen>
+    <dimen name="search_condition_opts_margin_bottom">20dp</dimen>
+
+    <dimen name="search_item_vertical_offset">6dp</dimen>
+
+    <dimen name="order_item_top_margin">12dp</dimen>
+
+    <dimen name="search_item_store_book_width">220dp</dimen>
+    <dimen name="search_item_store_book_heigh">230dp</dimen>
+
+    <dimen name="menu_bottom_hor_margin">155dp</dimen>
+
+    <dimen name="menu_list_item_hei">120dp</dimen>
+    <dimen name="dialog_book_info_margin_left">65dp</dimen>
+    <dimen name="dialog_move_book2class_height">820dp</dimen>
+    <dimen name="dialog_page_indicator_textsizmenu_bottom_heie">38sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="store_divider_line_height">10dp</dimen>
+    <dimen name="padding_22">22dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_13">13dp</dimen>
+    <dimen name="store_search_margin_bottom">17dp</dimen>
+    <dimen name="store_search_margin_left">30dp</dimen>
+    <dimen name="store_search_margin_right">30dp</dimen>
+    <dimen name="padding_14">14dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_36">36dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="padding_26">26dp</dimen>
+    <dimen name="padding_52">52dp</dimen>
+    <dimen name="store_hot_book_size">150dp</dimen>
+    <dimen name="store_hot_book_height">161dp</dimen>
+    <dimen name="qr_wid">240dp</dimen>
+    <dimen name="qr_hei">240dp</dimen>
+    <dimen name="user_avatar_size">95dp</dimen>
+
+
+
+    <dimen name="sub_title_bar_hei">50dp</dimen>
+
+    <dimen name="dialog_title_bar_height">134dp</dimen>>
+
+    <!-- 字体大小 start -->
+    <dimen name="font_size_bookshelf_book_name">22sp</dimen>
+    <dimen name="font_size_bookitem_with_cover_title">24sp</dimen>
+    <dimen name="font_size_bookitem_with_cover_subtitle">20sp</dimen>
+    <dimen name="font_size_bookitem_with_cover_status">18sp</dimen>
+    <dimen name="font_size_dialog_content">26sp</dimen>
+    <dimen name="font_size_dialog_title">28sp</dimen>
+    <dimen name="font_size_dialog_btn">26sp</dimen>
+    <dimen name="font_size_export_book_status">20sp</dimen>
+    <dimen name="font_size_wifi_transfer_book_title">24sp</dimen>
+    <dimen name="font_size_wifi_transfer_book_tips">22sp</dimen>
+    <dimen name="font_size_push_item_title">22sp</dimen>
+    <dimen name="font_size_push_item_subtitle">20sp</dimen>
+    <dimen name="font_size_push_item_status">18sp</dimen>
+    <dimen name="font_size_page_empty_tips">24sp</dimen>
+    <dimen name="font_size_push_guide_tips">26sp</dimen>
+    <dimen name="font_size_push_guide_btn">24sp</dimen>
+    <dimen name="font_size_push_identify">24sp</dimen>
+    <dimen name="font_size_push_identify_get_code">22sp</dimen>
+    <dimen name="font_size_push_identify_btn">26sp</dimen>
+    <dimen name="font_size_read_menu">21sp</dimen>
+    <dimen name="font_size_font_list">24sp</dimen>
+    <dimen name="font_size_tts_menu">22sp</dimen>
+
+
+    <dimen name="font_size_chap_sub_title">24sp</dimen>
+    <dimen name="font_size_bookmark_list_item_title">24sp</dimen>
+    <dimen name="font_size_bookmark_list_item_des">22sp</dimen>
+
+    <dimen name="font_size_chap_note_title">24sp</dimen>
+    <dimen name="font_size_chap_note_content">24sp</dimen>
+    <dimen name="font_size_chap_note_remark">20sp</dimen>
+
+    <dimen name="font_size_dialog_note_content">22sp</dimen>
+    <dimen name="font_size_note_edit">24sp</dimen>
+    <dimen name="font_size_read_highlight_menu_title">24sp</dimen>
+    <dimen name="font_size_read_highlight_content">22sp</dimen>
+    <dimen name="font_size_dialog_translation">24sp</dimen>
+    <dimen name="font_size_toolbar_search">26sp</dimen>
+    <dimen name="font_size_read_search_item_content">@dimen/ioffice_office_font_size_search_item_content</dimen>
+    <dimen name="font_size_store_category">22sp</dimen>
+    <dimen name="font_size_store_hot_book_des">22sp</dimen>
+    <dimen name="font_size_store_hot_book_name">20sp</dimen>
+
+    <dimen name="font_size_store_bookdetail_l">20sp</dimen>
+    <dimen name="font_size_store_bookdetail_m">20sp</dimen>
+    <dimen name="font_size_store_bookdetail_h">22sp</dimen>
+    <dimen name="font_size_store_bookdetail_xh">26sp</dimen>
+
+    <dimen name="font_size_store_bbs_item_title">20sp</dimen>
+    <dimen name="font_size_store_bbs_item">22sp</dimen>
+    <dimen name="font_size_dialog_book_des">22sp</dimen>
+    <dimen name="font_size_copyright_bookname">24sp</dimen>
+    <dimen name="font_size_copyright_other">22sp</dimen>
+
+    <dimen name="font_size_order_content">20sp</dimen>
+    <dimen name="font_size_order_tips">22sp</dimen>
+
+    <dimen name="font_size_topic_book_item_title">24sp</dimen>
+    <dimen name="font_size_topic_book_item_des">20sp</dimen>
+
+    <dimen name="font_size_topic_item_title">26sp</dimen>
+    <dimen name="font_size_topic_item_des">22sp</dimen>
+    <dimen name="font_size_topic_item_action">20sp</dimen>
+
+    <dimen name="font_size_net_error_title">28sp</dimen>
+    <dimen name="font_size_net_error_subtitle">26sp</dimen>
+    <dimen name="font_size_net_error_retry">26sp</dimen>
+
+    <dimen name="font_size_account_user_name">30sp</dimen>
+    <dimen name="font_size_account_money">24sp</dimen>
+    <dimen name="font_size_account_item">26sp</dimen>
+
+    <dimen name="font_size_charge_tips">22sp</dimen>
+    <dimen name="font_size_charge_price">24sp</dimen>
+    <dimen name="font_size_charge_price_des">18sp</dimen>
+    <dimen name="font_size_charge_price_num">30sp</dimen>
+    <dimen name="font_size_charge_submit_tips">24sp</dimen>
+
+    <dimen name="font_size_assets_list_item">26sp</dimen>
+
+    <dimen name="font_size_charge_record_title">24sp</dimen>
+    <dimen name="font_size_charge_record_des">20sp</dimen>
+    <dimen name="font_size_auto_buy_setting">26sp</dimen>
+
+    <dimen name="font_size_mine_feed_title">24sp</dimen>
+    <dimen name="font_size_mine_feed_subtitle">20sp</dimen>
+
+
+    <dimen name="font_size_login_edit">24sp</dimen>
+    <dimen name="font_size_login_get_code">22sp</dimen>
+    <dimen name="font_size_login_tips">24sp</dimen>
+    <dimen name="font_size_setting_title">26sp</dimen>
+    <dimen name="font_size_setting_second_title">24sp</dimen>
+    <dimen name="font_size_setting_second_subtitle">20sp</dimen>
+    <dimen name="font_size_statement">26sp</dimen>
+    <dimen name="font_book_detail_shopping_cart">17sp</dimen>
+
+    <!-- 字体大小 end -->
+
+
+    <dimen name="bookshelf_main_bottom_bar_hei">75dp</dimen>
+    <dimen name="bookshelf_main_bottom_bar_paddingTop">5dp</dimen>
+    <dimen name="bookshelf_main_bottom_bar_paddingBottom">10dp</dimen>
+
+    <dimen name="bookshelf_main_edit_bottombar_left">112dp</dimen>
+    <dimen name="bookshelf_main_edit_bottombar_top">7dp</dimen>
+    <dimen name="bookshelf_main_edit_bottombar_bottom">10dp</dimen>
+    <dimen name="bookshelf_main_edit_bottombar_space">66dp</dimen>
+    <dimen name="bookshelf_book_loadarea_height">56dp</dimen>
+    <dimen name="bookshelf_folder_icon_height">237dp</dimen>
+
+    <dimen name="font_size_bookitem_with_cover_paddingtop">4dp</dimen>
+    <dimen name="font_size_bookitem_with_cover_paddingbottom">4dp</dimen>
+    <dimen name="font_size_bookitem_cover_width">80dp</dimen>
+    <dimen name="font_size_bookitem_cover_height">108dp</dimen>
+    <dimen name="search_item_author_line_margin_name">6dp</dimen>
+    <dimen name="search_item_sub_margin_primary">6dp</dimen>
+
+    <dimen name="dialog_title_height_h">93dp</dimen>
+    <dimen name="dialog_title_height">74dp</dimen>
+    <dimen name="dialog_content_min_height">50dp</dimen>
+    <dimen name="dialog_btn_height">80dp</dimen>
+
+    <dimen name="dialog_big_width">556dp</dimen>
+    <dimen name="dialog_big_height_l">519dp</dimen>
+    <dimen name="dialog_big_height">602dp</dimen>
+    <dimen name="dialog_vocabulary_height">630dp</dimen>
+    <dimen name="dialog_big_height_x">727dp</dimen>
+    <dimen name="dialog_little_width">482dp</dimen>
+    <dimen name="dialog_little_height">241dp</dimen>
+    <dimen name="dialog_little_height_x">333dp</dimen>
+
+    <dimen name="dialog_book_class_list_item_hei">67dp</dimen>
+    <dimen name="dialog_book_detail_item_hei">80dp</dimen>
+    <dimen name="dialog_create_class_edit_width">333dp</dimen>
+    <dimen name="edit_text_padding">5dp</dimen>
+
+    <dimen name="line_mark_and_text_space">12dp</dimen>
+    <dimen name="read_search_list_item_hei">100dp</dimen>
+
+
+
+    <dimen name="dialog_landscape_note_hei">600dp</dimen>
+    <dimen name="dialog_loading_width">190dp</dimen>
+    <dimen name="dialog_loading_height">125dp</dimen>
+    <dimen name="note_save_layout_width">260dp</dimen>
+    <dimen name="note_save_layout_height">100dp</dimen>
+
+    <dimen name="book_export_list_menu_offset">13dp</dimen>
+    <dimen name="export_list_item_margin">30dp</dimen>
+    <dimen name="item_two_line_paddingTop">20dp</dimen>
+    <dimen name="item_two_line_paddingBottom">20dp</dimen>
+    <dimen name="item_single_line_height">@dimen/ioffice_office_chap_list_item_chap_height</dimen>
+
+    <dimen name="translation_menu_f_offsetx">470dp</dimen>
+
+    <dimen name="faq_item_paddingTop">27dp</dimen>
+    <dimen name="faq_item_paddingBottom">27dp</dimen>
+
+    <dimen name="book_mark_item_paddingTop">25dp</dimen>
+    <dimen name="book_mark_item_paddingBottom">25dp</dimen>
+
+    <dimen name="book_note_item_paddingTop">0dp</dimen>
+    <dimen name="book_note_item_paddingBottom">8dp</dimen>
+    <dimen name="book_note_src_marginTop">16dp</dimen>
+    <dimen name="bookdetail_padding_25">25dp</dimen>
+    <dimen name="bookdetail_padding_20">20dp</dimen>
+    <dimen name="bookdetail_padding_15">15dp</dimen>
+    <dimen name="bookdetail_button_hight">55dp</dimen>
+
+    <dimen name="book_bbs_item_paddingTop">15dp</dimen>
+    <dimen name="book_bbs_item_paddingBottom">15dp</dimen>
+    <dimen name="book_bbs_item_inner_padding">8dp</dimen>
+
+    <dimen name="consumption_detail_item__paddingTop">18dp</dimen>
+    <dimen name="consumption_detail_item__paddingBottom">18dp</dimen>
+
+    <dimen name="store_banner_image_height">97dp</dimen>
+    <dimen name="order_layout_paddingTop">27dp</dimen>
+    <dimen name="qr_image_size">210dp</dimen>
+    <dimen name="order_qr_marginBottom">10dp</dimen>
+    <dimen name="order_qr_marinTop">27dp</dimen>
+    <dimen name="book_to_class_item_hei">82dp</dimen>
+    <dimen name="qr_eink_wechat_image_size">260dp</dimen>
+    <dimen name="net_error_padding_top">231dp</dimen>
+    <dimen name="net_error_padding_inner">222dp</dimen>
+    <dimen name="font_size_book_out_of_stock_tips">28sp</dimen>
+    <dimen name="font_size_relation_book_title">26sp</dimen>
+    <dimen name="font_size_search_suggestion">23sp</dimen>
+    <dimen name="font_size_search_item_into">20sp</dimen>
+
+    <dimen name="font_size_search_suggestion_title">22sp</dimen>
+    <dimen name="bookshelf_list_bookname_font_size">22sp</dimen>
+    <dimen name="search_category_little_cover_width">68dp</dimen>
+    <dimen name="search_category_little_cover_height">90dp</dimen>
+    <dimen name="search_item_magazine_cover_wid">130dp</dimen>
+    <dimen name="search_item_magazine_cover_hei">58dp</dimen>
+    <dimen name="subscribe_magazine_item_margin_top">23dp</dimen>
+    <dimen name="subscribe_magazine_item_margin_bottom">20dp</dimen>
+    <dimen name="search_item_magazine_margin_top">20dp</dimen>
+    <dimen name="search_item_magazine_margin_bottom">20dp</dimen>
+
+
+    <dimen name="ad_text_lable_width">300dp</dimen>
+    <dimen name="ad_grid_maga_image_item_width">148dp</dimen>
+    <dimen name="ad_grid_maga_image_item_height">62dp</dimen>
+    <dimen name="ad_grid_image_item_width">139dp</dimen>
+    <dimen name="ad_grid_image_item_height">59dp</dimen>
+    <dimen name="photo_ad_icon_width">41dp</dimen>
+    <dimen name="photo_ad_icon_height">41dp</dimen>
+    <dimen name="photo_ad_text_lable_width">103dp</dimen>
+    <dimen name="double_ad_image_width">283dp</dimen>
+    <dimen name="doule_ad_image_height">90dp</dimen>
+    <dimen name="subscribed_magazine_item_paddingTop">25dp</dimen>
+    <dimen name="subscribed_magazine_item_paddingBottom">25dp</dimen>
+    <dimen name="book_list_divider_height">23dp</dimen>
+    <dimen name="font_size_book_item_title">23sp</dimen>
+    <dimen name="font_size_book_item_tag">19sp</dimen>
+    <dimen name="font_size_book_item_subinfo">19sp</dimen>
+    <dimen name="store_book_item_cover_width">99dp</dimen>
+    <dimen name="store_book_item_cover_height">132dp</dimen>
+
+    <dimen name="dialog_note_choose_width">520dp</dimen>
+    <dimen name="dialog_note_choose_height">260dp</dimen>
+    <dimen name="dialog_hand_write_note_height">180dp</dimen>
+    <dimen name="store_block_item_tag_height">42dp</dimen>
+    <dimen name="store_block_item_tag_width">123dp</dimen>
+    <dimen name="font_size_ad_item_text">24sp</dimen>
+    <dimen name="read_menu_font_lang_view_with">211dp</dimen>
+    <dimen name="read_font_size_custom_width">92dp</dimen>
+    <dimen name="read_bottom_menu_item_height">50dp</dimen>
+
+    <dimen name="store_book_detail_relaiton_height">167dp</dimen>
+    <dimen name="store_book_detail_relaiton_width">125dp</dimen>
+    <dimen name="store_book_detail_recommend">87dp</dimen>
+    <dimen name="shopping_cart_item_heigth">144dp</dimen>
+    <dimen name="store_book_detail_no_relaiton_paddingTop">60dp</dimen>
+    <dimen name="store_book_detail_no_relaiton_paddingBottom">101dp</dimen>
+    <dimen name="detail_relation_book_space">36dp</dimen>
+    <dimen name="past_topic_book_cover_width">125dp</dimen>
+    <dimen name="past_topic_book_cover_height">202dp</dimen>
+    <dimen name="store_book_detail_shopping_drawable_padding">31dp</dimen>
+    <dimen name="photo_ad_layout_paddingRight">18dp</dimen>
+    <dimen name="photo_ad_item_space">60px</dimen>
+    <dimen name="search_hot_word_view_width">200dp</dimen>
+    <dimen name="search_guide_topPadding">18dp</dimen>
+    <dimen name="search_guide_middlePadding">27dp</dimen>
+    <dimen name="hand_sketch_marginTop">50dp</dimen>
+    <dimen name="book_detail_book_desc_height">71dp</dimen>
+    <dimen name="bookdetail_relation_book_space">42dp</dimen>
+    <dimen name="book_detail_desRoot_marginBottom">0dp</dimen>
+    <dimen name="seach_history_item_max_width">185dp</dimen>
+
+    <dimen name="duration_gift_tv_width">141dp</dimen>
+    <dimen name="category_indicator_width">74dp</dimen>
+    <dimen name="category_tab_height">59dp</dimen>
+    <dimen name="category_tab_width">148dp</dimen>
+    <dimen name="category_tab_paddingTop">14dp</dimen>
+    <dimen name="category_tab_spacing">18dp</dimen>
+    <dimen name="category_list_item_height">74dp</dimen>
+    <dimen name="category_item_head_height">198dp</dimen>
+    <dimen name="category_item_head_iv_width">101dp</dimen>
+    <dimen name="category_item_head_iv_height">133dp</dimen>
+    <dimen name="category_item_head_tv_height">65dp</dimen>
+    <dimen name="category_top_line_marginbottom">42dp</dimen>
+    <dimen name="category_last_tab_width">115dp</dimen>
+    <dimen name="category_last_tab_marginLeft">16dp</dimen>
+    <dimen name="user_duration_width">148dp</dimen>
+    <dimen name="user_duration_spacing">82dp</dimen>
+
+    <dimen name="store_block_container_paddingLeft">26dp</dimen>
+    <dimen name="store_block_container_paddingRight">26dp</dimen>
+    <dimen name="ad_three_item_image_width">260dp</dimen>
+    <dimen name="ad_three_item_image_height">113dp</dimen>
+    <dimen name="bookshelf_grid_itemPaddingX">51dp</dimen>
+    <dimen name="bookshelf_grid_itemPaddingY">14dp</dimen>
+    <dimen name="bookshelf_grid_cover_titile_space">11dp</dimen>
+    <dimen name="bookshelf_grid_titleTextSize">21sp</dimen>
+    <dimen name="bookshelf_grid_contentTextSize">20sp</dimen>
+    <dimen name="book_shelf_more_bottom">55dp</dimen>
+    <dimen name="bookshelf_grid_textLeading">2dp</dimen>
+    <dimen name="bookshelf_list_contentTextSize">18sp</dimen>
+    <dimen name="bookshelf_bottom_bar_marginBottom">5dp</dimen>
+    <dimen name="book_chap_list_current_paddingLeft">37dp</dimen>
+    <dimen name="book_chapter_list_level_padding">28dp</dimen>
+    <dimen name="read_setting_horizontal_item_padding">27dp</dimen>
+    <dimen name="cartoon_chapter_item_status_paddingleft">28dp</dimen>
+    <!--11.24 UI调整-->
+    <dimen name="search_item_book_name_size">22sp</dimen>
+    <dimen name="search_item_book_detail_size">18sp</dimen>
+    <dimen name="search_item_book_click_size">17sp</dimen>
+    <dimen name="search_item_click_minWidth">78dp</dimen>
+    <dimen name="search_item_click_minHeight">30dp</dimen>
+    <dimen name="search_item_click_margin_left">30dp</dimen>
+    <dimen name="search_condition_margin_tag">100dp</dimen>
+    <dimen name="search_item_margint_top">6dp</dimen>
+    <dimen name="search_item_margint_bottom">6dp</dimen>
+
+    <dimen name="font_size_file_item_first_line">22sp</dimen>
+    <dimen name="font_size_file_item_second_line">19sp</dimen>
+
+
+
+
+    <dimen name="recharge_history_item_padding_top">26dp</dimen>
+    <dimen name="recharge_history_item_padding_bottom">25dp</dimen>
+    <dimen name="file_item_padding_bottom">2dp</dimen>
+    <dimen name="read_menu_pdf_padding_top">22dp</dimen>
+    <dimen name="read_menu_pdf_padding_bottom">31dp</dimen>
+    <dimen name="read_menu_pdf_space">26dp</dimen>
+    <dimen name="font_size_wifi_transfer_tips">21sp</dimen>
+    <dimen name="book_shelf_long_click_item_height">68dp</dimen>
+    <dimen name="book_shelf_long_click_cover_width">156dp</dimen>
+    <dimen name="book_shelf_long_click_cover_height">208dp</dimen>
+    <dimen name="book_shelf_long_click_detail_padding">14dp</dimen>
+    <dimen name="book_shelf_long_click_bookname_height">61dp</dimen>
+    <dimen name="shopping_cart_preferentail_padding_left">102dp</dimen>
+    <dimen name="shopping_cart_preferentail_padding_right">46dp</dimen>
+    <dimen name="book_main_store_search_padding_left">43dp</dimen>
+    <dimen name="book_main_store_search_padding_right">@dimen/Base.Root.PaddingLeft</dimen>
+    <dimen name="book_store_main_shopping_cart_padding_left">25dp</dimen>
+    <dimen name="cartoon_chapter_down_statue_width">93dp</dimen>
+    <dimen name="book_chap_list_item_padding">28dp</dimen>
+    <dimen name="book_chapter_list_can_fold_padding">37dp</dimen>
+    <dimen name="dialog_book_class_name_linespace">15dp</dimen>
+    <dimen name="dialog_long_click_pic_item_space">40dp</dimen>
+
+    <dimen name="user_login_margin_top">74dp</dimen>
+    <dimen name="book_store_toolbar_bottom">18dp</dimen>
+    <dimen name="read_menu_empty_tv_paddingbottom">148dp</dimen>
+    <dimen name="pophighlight_menu_width_vertical">600dp</dimen>
+    <dimen name="pophighlight_menu_width_horizontal">780dp</dimen>
+    <dimen name="pophighlight_menu_height_vertical">403dp</dimen>
+    <dimen name="pophighlight_menu_height_horizontal">403dp</dimen>
+    <dimen name="pophighlight_menu_top_height">67dp</dimen>
+    <dimen name="pophighlight_menu_autotext_height_vertical">336dp</dimen>
+    <dimen name="pophighlight_menu_autotext_height_horizontal">336dp</dimen>
+    <dimen name="pdf_menu_pre_page_paddingright">46dp</dimen>
+    <dimen name="pdf_menu_next_page_paddingright">33dp</dimen>
+    <dimen name="pdf_menu_next_page_paddingleft">31dp</dimen>
+    <dimen name="highlight_extral_linespace">-2dp</dimen>
+    <dimen name="pophighlight_menu_hand_spacing">13dp</dimen>
+    <dimen name="pophighlight_menu_limit_spacing">5dp</dimen>
+    <dimen name="wifi_book_reminder_width">646dp</dimen>
+    <dimen name="font_vocabulary_item_twenty_six">24sp</dimen>
+    <dimen name="vocabulary_simple_item_height">84dp</dimen>
+    <dimen name="font_vocabulary_twenty">18sp</dimen>
+    <dimen name="font_vocabulary_detail_title_size">26sp</dimen>
+    <dimen name="vocabulary_normal_item_height">99dp</dimen>
+    <dimen name="vocabulary_dialog_bottomtab_height">74dp</dimen>
+    <dimen name="font_vocabulary_twenty_two">20sp</dimen>
+    <dimen name="vocabulary_arrow_padding">92dp</dimen>
+    <dimen name="font_vocabulary_twenty_four">22sp</dimen>
+    <dimen name="vocabulary_indicator_item_padding">85dp</dimen>
+    <dimen name="vocabulary_indicator_padding">23dp</dimen>
+    <dimen name="vocabulary_dialog_arrow_extral_area">28dp</dimen>
+    <dimen name="vocabulary_indicator_margin_bottom">18dp</dimen>
+    <dimen name="dict_result_margin_top">32dp</dimen>
+    <dimen name="font_dialog_recovey_shelf_title">26sp</dimen>
+    <dimen name="recovery_shelf_title_height">72dp</dimen>
+    <dimen name="font_recovery_shelf_tips">22sp</dimen>
+    <dimen name="recovery_shelf_tips_height">148dp</dimen>
+    <dimen name="font_recovery_operation">24sp</dimen>
+    <dimen name="dialog_recovery_width">481dp</dimen>
+    <dimen name="dialog_recovery_height">444dp</dimen>
+    <dimen name="font_exprot_selecte_num">22sp</dimen>
+    <dimen name="pop_export_sort_width">194dp</dimen>
+    <dimen name="pop_note_book_query_width">168dp</dimen>
+    <dimen name="local_export_book_select_padding_right">18dp</dimen>
+    <dimen name="export_list_item_padding">12dp</dimen>
+    <dimen name="font_cloud_book_edit_item">18sp</dimen>
+    <dimen name="setting_common_text_tips_padding">18dp</dimen>
+    <dimen name="font_setting_common_text_tips">18sp</dimen>
+    <dimen name="font_book_long_click_detail">20sp</dimen>
+    <dimen name="bottom_selected_num_width">233dp</dimen>
+    <dimen name="book_mark_view_width">26dp</dimen>
+    <dimen name="book_mark_view_height">37dp</dimen>
+    <dimen name="dict_result_et_margintop">23dp</dimen>
+    <dimen name="dict_result_search_width">76dp</dimen>
+    <dimen name="dict_result_search_margin_left">18dp</dimen>
+    <dimen name="font_dict_result_search">18sp</dimen>
+    <dimen name="cloud_book_list_divider_height">13dp</dimen>
+    <dimen name="book_shelf_add_top_fix">-1dp</dimen>
+    <dimen name="font_export_book_pop">22sp</dimen>
+    <dimen name="cloud_book_edit_bottom_padding">37dp</dimen>
+    <dimen name="file_item_edit_select_padding">42dp</dimen>
+    <dimen name="pdf_password_height">65dp</dimen>
+    <dimen name="pdf_password_margin">37dp</dimen>
+    <dimen name="pdf_password_margin_bottom">19dp</dimen>
+    <dimen name="font_pdf_password_et">24sp</dimen>
+    <dimen name="pdf_password_et_width">296dp</dimen>
+    <dimen name="hand_write_note_book_lineHeight">80dp</dimen>
+
+    <dimen name="hw_top_menu_left_width">254dp</dimen>
+    <dimen name="hw_top_menu_right_width">185dp</dimen>
+
+
+    <dimen name="hw_select_area_handle_size">14dp</dimen>
+    <dimen name="hw_select_area_btn_size">24dp</dimen>
+    <dimen name="hw_select_area_btn_hor_padding">8dp</dimen>
+    <dimen name="hw_shape_edit_btn_top_padding">6dp</dimen>
+    <dimen name="font_size_six_photo_ads">24sp</dimen>
+    <dimen name="font_size_format_recommend_title_action">20sp</dimen>
+    <dimen name="hand_write_bg_item_margin">60dp</dimen>
+    <dimen name="hand_write_bg_item_name_size">22sp</dimen>
+    <dimen name="font_size_user_login_sign">24sp</dimen>
+    <dimen name="font_size_user_logined_duration">22sp</dimen>
+    <dimen name="font_size_note_item_date">20sp</dimen>
+    <dimen name="font_size_note_on_single_book_note">18sp</dimen>
+    <dimen name="note_detail_bottom_bar_height">73dp</dimen>
+    <dimen name="hw_topbar_icon_title_margin">27dp</dimen>
+    <dimen name="hw_topbar_icon_title_land_margin">54dp</dimen>
+
+    <dimen name="hw_theme_item_bottom_hei">50dp</dimen>
+    <dimen name="hw_theme_item_ver_spacing">56dp</dimen>
+    <dimen name="hw_theme_item_portrait_ver_spacing">50dp</dimen>
+    <dimen name="hw_theme_item_landscape_ver_spacing">75dp</dimen>
+    <dimen name="hw_theme_item_width">190dp</dimen>
+    <dimen name="hw_theme_item_height">300dp</dimen>
+    <dimen name="consumption_record_item_spaceX">100dp</dimen>
+    <dimen name="font_size_note_gray_text">18sp</dimen>
+    <dimen name="book_longclick_name_padding_top">26dp</dimen>
+    <dimen name="book_longclick_name_padding_bottom">13dp</dimen>
+    <dimen name="font_size_note_detail_time">20sp</dimen>
+
+    <!-- 截屏分享 -->
+    <dimen name="capture_left_margin">94dp</dimen>
+    <dimen name="capture_landscape_left_margin">167dp</dimen>
+    <dimen name="capture_top_margin">53dp</dimen>
+    <dimen name="capture_bottom_bar_top_margin">28dp</dimen>
+    <dimen name="capture_bottom_bar_height">116dp</dimen>
+    <dimen name="capture_bottom_bar_icon_padding">10dp</dimen>
+    <dimen name="capture_bottom_bar_text_size">19sp</dimen>
+    <dimen name="capture_add_to_note_title_textsize">24sp</dimen>
+    <dimen name="capture_list_item_cover_width">100dp</dimen>
+    <dimen name="capture_list_item_cover_height">133dp</dimen>
+    <dimen name="capture_watermark_height">50dp</dimen>
+    <dimen name="capture_watermark_textsize">22sp</dimen>
+
+    <!-- 书城  -->
+    <dimen name="store_photo_ads_vertical_tv_width">110dp</dimen>
+    <dimen name="store_photo_ads_vertical_tv_height">30dp</dimen>
+    <dimen name="store_photo_ads_vertical_space">11dp</dimen>
+    <dimen name="font_size_store_photo_ads_tv_vertical">23sp</dimen>
+    <dimen name="font_size_banner_title">25sp</dimen>
+    <dimen name="banner_title_margin_bottom">20dp</dimen>
+    <dimen name="font_size_store_double_ad_item_title">23sp</dimen>
+    <dimen name="ad_one_two_image_width">240dp</dimen>
+    <dimen name="ad_one_two_image_height">340dp</dimen>
+    <dimen name="ad_item_one_two_spaceX">50dp</dimen>
+    <dimen name="font_size_one_two_title">23sp</dimen>
+    <dimen name="ad_one_two_content_margin_bottom">16dp</dimen>
+    <dimen name="ad_one_two_right_image_width">330dp</dimen>
+    <dimen name="ad_one_two_right_image_book_width">315dp</dimen>
+    <dimen name="font_size_one_two_content">20sp</dimen>
+    <dimen name="ad_one_two_right_image_height">115dp</dimen>
+    <dimen name="font_size_vertical_one_two_up_title">24sp</dimen>
+    <dimen name="ad_vertical_one_two_up_image_height">150dp</dimen>
+    <dimen name="ad_vertical_one_two_up_image_margin_top">27dp</dimen>
+    <dimen name="ad_one_two_vertical_down_item_width">290dp</dimen>
+    <dimen name="ad_vertical_one_two_spaceX">38dp</dimen>
+    <dimen name="ad_vertical_one_two_margin_top">24dp</dimen>
+    <dimen name="ad_vertical_one_two_down_margin_top">14dp</dimen>
+    <dimen name="ad_vertical_one_two_down_image_height">130dp</dimen>
+    <dimen name="store_item_discount_book_cover_width">117dp</dimen>
+    <dimen name="store_item_discount_book_cover_height">161dp</dimen>
+    <dimen name="store_item_discount_tv_width">53dp</dimen>
+    <dimen name="store_item_discount_tv_height">32dp</dimen>
+    <dimen name="store_book_discount_spaceX">14dp</dimen>
+    <dimen name="store_book_discount_name_width">150dp</dimen>
+    <dimen name="store_book_discount_name_height">60dp</dimen>
+    <dimen name="font_size_discount_book_name">22sp</dimen>
+    <dimen name="font_size_discount_book_des">20sp</dimen>
+    <dimen name="store_discount_book_des_margin_top">12dp</dimen>
+    <dimen name="store_book_price_margin_top">32dp</dimen>
+    <dimen name="font_size_store_book_price">20sp</dimen>
+    <dimen name="store_book_list_one_four_margin_top">25dp</dimen>
+    <dimen name="store_book_list_one_four_spaceX">26dp</dimen>
+    <dimen name="store_book_list_author_margin_top">20dp</dimen>
+    <dimen name="store_book_list_des_margin_top">20dp</dimen>
+    <dimen name="store_top_menu_layout">60dp</dimen>
+    <dimen name="ad_one_two_right_layout_spaceY">30dp</dimen>
+    <dimen name="font_size_channel_twenty_four">24sp</dimen>
+
+    <dimen name="vip_store_book_list_tv_width">118dp</dimen>
+    <dimen name="vip_store_book_list_tv_height">40dp</dimen>
+    <dimen name="font_size_channel_vip">24sp</dimen>
+    <dimen name="vip_store_book_list_divider_height">12dp</dimen>
+    <dimen name="vip_filter_menu_margin_bottom">27dp</dimen>
+    <dimen name="vip_order_padding">42dp</dimen>
+    <dimen name="font_size_vip_order_tips_twenty_eight">28sp</dimen>
+    <dimen name="vip_order_layout_margin_top">46dp</dimen>
+    <dimen name="vip_order_price_margin_top">60dp</dimen>
+    <dimen name="font_size_order_real_price_forty">40sp</dimen>
+    <dimen name="vip_order_qr_margin_top">37dp</dimen>
+    <dimen name="font_size_vip_pay_method_tips">28sp</dimen>
+    <dimen name="vip_order_pay_method_tip_margin_top">36dp</dimen>
+    <dimen name="vip_bind_tips_margin_bottom">70dp</dimen>
+    <dimen name="font_size_vip_bind_twenty_six">26sp</dimen>
+    <dimen name="font_size_vip_bind_twenty_two">22sp</dimen>
+    <dimen name="vip_bind_confirm_height">60dp</dimen>
+    <dimen name="vip_bind_confirm_margin_top">65dp</dimen>
+    <dimen name="vip_bind_request_auth_code_width">144dp</dimen>
+    <dimen name="vip_bind_request_auth_code_height">36dp</dimen>
+    <dimen name="qr_include_vip_height">50dp</dimen>
+    <dimen name="order_vip_btn_margin_top">50dp</dimen>
+    <dimen name="vip_status_iv_width">50dp</dimen>
+    <dimen name="store_right_icon_width">40dp</dimen>
+    <dimen name="store_right_icon_height">40dp</dimen>
+    <dimen name="store_channels_indicator_height">4px</dimen>
+
+    <dimen name="pay_type_horizontal_spacing">10dp</dimen>
+    <dimen name="pay_type_vertical_spacing">10dp</dimen>
+    <dimen name="order_buy_chapter_open_vip_height">40dp</dimen>
+    <dimen name="hw_select_area_margin">12dp</dimen>
+    <dimen name="hw_select_area_padding">2px</dimen>
+    <dimen name="hw_insert_menu_width">430dp</dimen>
+
+    <dimen name="recorder_view_margin">48dp</dimen>
+    <dimen name="recorder_play_margin_left">12dp</dimen>
+    <dimen name="recorder_play_margin_right">16dp</dimen>
+    <dimen name="recorder_finish_margin_right">10dp</dimen>
+    <dimen name="recorder_play_vertical_margin">8dp</dimen>
+    <dimen name="recorder_tips_text_size">14sp</dimen>
+    <dimen name="recorder_view_height">53dp</dimen>
+    <dimen name="recorder_view_custom_margin_top">24dp</dimen>
+    <dimen name="recorder_view_btn_vertical_padding">5dp</dimen>
+    <dimen name="recorder_view_btn_horizontal_padding">29dp</dimen>
+    <dimen name="recorder_controller_panel_margin_top">7dp</dimen>
+    <dimen name="recorder_controller_panel_margin_right">39dp</dimen>
+    <dimen name="recorder_view_recording_bg">373dp</dimen>
+    <dimen name="recorder_tips_width">98dp</dimen>
+    <dimen name="recorder_view_group_min_margin_bottom">16dp</dimen>
+    <dimen name="status_bar_height">49dp</dimen>
+    <dimen name="pop_read_menu_eraser_margin_right">80dp</dimen>
+    <dimen name="pop_read_menu_dual_pane_eraser_margin_right">106dp</dimen>
+    <dimen name="pop_office_read_menu_dual_pane_eraser_margin_right">53dp</dimen>
+    <dimen name="recognize_port_page_bg_height">442dp</dimen>
+    <dimen name="recognize_port_iv_bg_height">501dp</dimen>
+    <dimen name="recognize_landscape_page_bg_height">300dp</dimen>
+    <dimen name="recognize_landscape_iv_bg_height">370dp</dimen>
+    <dimen name="recognize_bg_width">617dp</dimen>
+    <dimen name="recognize_top_bg_width">28dp</dimen>
+    <dimen name="recognize_top_bg_heigth">29dp</dimen>
+    <dimen name="recognize_current_page_1_padding_left">8dp</dimen>
+    <dimen name="recognize_current_page_1_padding_top">3dp</dimen>
+    <dimen name="recognize_current_page_2_padding_left">4dp</dimen>
+    <dimen name="recognize_current_page_3_padding_left">1dp</dimen>
+    <dimen name="note_theme_category_size">24sp</dimen>
+    <dimen name="note_all_theme_category_size">16sp</dimen>
+
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_32">32dp</dimen>
+    <dimen name="search_condition_group_height">350dp</dimen>
+    <dimen name="search_condition_item_width">130dp</dimen>
+    <dimen name="search_condition_item_padding_top">10dp</dimen>
+    <dimen name="search_condition_item_padding_bottom">10dp</dimen>
+    <dimen name="search_condition_divider_height">15dp</dimen>
+    <dimen name="search_condition_content_padding_top">15dp</dimen>
+    <dimen name="search_condition_content_padding_bottom">15dp</dimen>
+
+    <dimen name="hw_tv_menu_width">259dp</dimen>
+    <dimen name="hw_tv_menu_height">67dp</dimen>
+    <dimen name="Id_hw_tv_menu_padding_down_top">-8dp</dimen>
+    <dimen name="Id_hw_tv_menu_padding_up_top">8dp</dimen>
+    <dimen name="Id_hw_tv_menu_height">35dp</dimen>
+    <dimen name="Id_hw_tv_menu_text_size">24sp</dimen>
+
+    <dimen name="dialog_pay_width">555dp</dimen>
+    <dimen name="dialog_pay_height">727dp</dimen>
+    <dimen name="dialog_pay_item_margin_ver">10dp</dimen>
+    <dimen name="dialog_pay_item_margin_hor">40dp</dimen>
+    <dimen name="dialog_pay_group_margin_top">14dp</dimen>
+    <dimen name="dialog_pay_group_margin_bottom">48dp</dimen>
+    <dimen name="dialog_pay_group_item_height">80dp</dimen>
+    <dimen name="dialog_pay_group_margin_left">27dp</dimen>
+    <dimen name="dialog_pay_group_margin_right">10dp</dimen>
+    <dimen name="dialog_pay_group_item_sub_padding_bottom">10dp</dimen>
+    <dimen name="dialog_pay_group_item_primary_padding_top">8dp</dimen>
+    <dimen name="dialog_pay_group_item_primary_padding_sub">4dp</dimen>
+    <dimen name="dialog_pay_group_item_padding_top">16dp</dimen>
+
+    <dimen name="audio_menu_container_width">322dp</dimen>
+    <dimen name="audio_menu_container_padding_horizontal">@dimen/dp_6</dimen>
+    <dimen name="audio_menu_container_padding_vertical">0dp</dimen>
+    <dimen name="audio_menu_item_height">54dp</dimen>
+    <dimen name="audio_time">14sp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_28">28dp</dimen>
+    <dimen name="hwnote_audio_tts_padding">30dp</dimen>
+    <dimen name="hwnote_audio_tts_height">160dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_30">30dp</dimen>
+    <dimen name="audio_tts_size">22sp</dimen>
+    <dimen name="hwnote_audio_tts_action_width">114dp</dimen>
+    <dimen name="hwnote_audio_tts_action_height">48dp</dimen>
+    <dimen name="hwnote_audio_tts_action_size">18sp</dimen>
+    <dimen name="hwnote_audio_tts_page_index_size">16sp</dimen>
+    <dimen name="hw_audio_record_player_menu">12sp</dimen>
+
+    <dimen name="bookshelf_dialog_title_width">327dp</dimen>
+
+    <dimen name="search_content_item_height">200dp</dimen>
+    <dimen name="search_content_item_padding_top">9dp</dimen>
+    <dimen name="search_content_item_padding_bottom">3dp</dimen>
+    <dimen name="search_content_img_width">60dp</dimen>
+    <dimen name="search_content_img_height">84dp</dimen>
+    <dimen name="search_content_name_margin_top">8dp</dimen>
+    <dimen name="search_content_name_primary_margin_sub">13dp</dimen>
+    <dimen name="search_content_name_sub_margin_content">13dp</dimen>
+
+    <dimen name="knowledge_margin_left">30dp</dimen>
+    <dimen name="knowledge_margin_right">35dp</dimen>
+    <dimen name="knowledge_associate_book_title_margin_content">21dp</dimen>
+    <dimen name="knowledge_content_margin_bottom">20dp</dimen>
+    <dimen name="knowledge_frame_out_item_content_margin_name">7dp</dimen>
+    <dimen name="knowledge_frame_out_item_content_margin_title">10dp</dimen>
+    <dimen name="knowledge_frome_out_item_between_item">15dp</dimen>
+    <dimen name="knowledge_window_width">440dp</dimen>
+    <dimen name="knowledge_title_margin_tag">1dp</dimen>
+    <dimen name="knowledge_tag_margin_content">100dp</dimen>
+    <dimen name="knowledge_primary_book_cover_width">105dp</dimen>
+    <dimen name="knowledge_primary_book_cover_height">141dp</dimen>
+
+    <dimen name="knowledge_to_read_text_size">17sp</dimen>
+    <dimen name="knowledge_frame_out_item_margin_top">10dp</dimen>
+    <dimen name="knowledge_sub_content_list_divider_height">26dp</dimen>
+    <dimen name="knowledge_sub_content_toolbar_margin_bottom">24dp</dimen>
+    <dimen name="knowledge_sub_content_toolbar_margin_top">23dp</dimen>
+    <dimen name="knowledge_sub_associate_book_img_width">80dp</dimen>
+    <dimen name="knowledge_sub_associate_book_img_height">108dp</dimen>
+    <dimen name="knowledge_sub_associate_book_desc_margin_name">6dp</dimen>
+    <dimen name="knowledge_sub_similar_plot_book_info_margin_top">11dp</dimen>
+    <dimen name="knowledge_sub_similar_plot_img_width">80dp</dimen>
+    <dimen name="knowledge_sub_similar_plot_img_height">108dp</dimen>
+
+    <dimen name="knowledge_content_list_divider_height">26dp</dimen>
+    <dimen name="knowledge_content_list_padding_top">21dp</dimen>
+    <dimen name="knowledge_content_list_padding_bottom">21dp</dimen>
+
+    <dimen name="ireader_dimen_half_line">0.5dp</dimen>
+    <dimen name="ireader_dimen_1">1dp</dimen>
+    <dimen name="ireader_dimen_3">3dp</dimen>
+    <dimen name="ireader_dimen_5">5dp</dimen>
+    <dimen name="ireader_dimen_6">6dp</dimen>
+    <dimen name="ireader_dimen_8">8dp</dimen>
+    <dimen name="ireader_dimen_10">10dp</dimen>
+    <dimen name="ireader_dimen_13">13dp</dimen>
+    <dimen name="ireader_dimen_15">15dp</dimen>
+    <dimen name="ireader_dimen_16">16dp</dimen>
+    <dimen name="ireader_dimen_17">17dp</dimen>
+    <dimen name="ireader_dimen_20">20dp</dimen>
+    <dimen name="ireader_dimen_21">21dp</dimen>
+    <dimen name="ireader_dimen_22">22dp</dimen>
+    <dimen name="ireader_dimen_25">25dp</dimen>
+    <dimen name="ireader_dimen_26">26dp</dimen>
+    <dimen name="ireader_dimen_30">30dp</dimen>
+    <dimen name="ireader_dimen_32">32dp</dimen>
+    <dimen name="ireader_dimen_43">43dp</dimen>
+    <dimen name="ireader_dimen_46">46dp</dimen>
+    <dimen name="ireader_dimen_48">48dp</dimen>
+    <dimen name="ireader_dimen_53">53dp</dimen>
+    <dimen name="ireader_dimen_54">54dp</dimen>
+    <dimen name="ireader_dimen_60">60dp</dimen>
+    <dimen name="ireader_dimen_65">65dp</dimen>
+    <dimen name="ireader_dimen_77">77dp</dimen>
+    <dimen name="ireader_dimen_80">80dp</dimen>
+    <dimen name="ireader_dimen_86">86dp</dimen>
+    <dimen name="ireader_dimen_100">100dp</dimen>
+    <dimen name="ireader_dimen_106">106dp</dimen>
+    <dimen name="ireader_dimen_116">116dp</dimen>
+    <dimen name="ireader_dimen_131">131dp</dimen>
+    <dimen name="ireader_dimen_141">141dp</dimen>
+    <dimen name="ireader_dimen_150">150dp</dimen>
+    <dimen name="ireader_dimen_220">220dp</dimen>
+    <dimen name="ireader_dimen_222">222dp</dimen>
+    <dimen name="ireader_dimen_231">231dp</dimen>
+    <dimen name="ireader_dimen_375">375dp</dimen>
+    <dimen name="ireader_dimen_380">380dp</dimen>
+    <dimen name="ireader_dimen_405">405dp</dimen>
+
+    <dimen name="ireader_text_size_17">17sp</dimen>
+    <dimen name="ireader_text_size_18">18sp</dimen>
+    <dimen name="ireader_text_size_19">19sp</dimen>
+    <dimen name="ireader_text_size_20">20sp</dimen>
+    <dimen name="ireader_text_size_21">21sp</dimen>
+    <dimen name="ireader_text_size_22">22sp</dimen>
+    <dimen name="ireader_text_size_23">23sp</dimen>
+    <dimen name="ireader_text_size_24">24sp</dimen>
+    <dimen name="ireader_text_size_25">25sp</dimen>
+    <dimen name="ireader_text_size_27">27sp</dimen>
+    <dimen name="hwnote_audio_seekbar_thumb_size">16dp</dimen>
+
+
+    <!--新增-->
+
+    <dimen name="translation_menu_d_offsetx">138dp</dimen>
+    <dimen name="category_item_wid">138dp</dimen>
+    <dimen name="category_item_hei">55dp</dimen>
+    <dimen name="font_size_gift_tips">20sp</dimen>
+    <dimen name="user_duration_font_size">27sp</dimen>
+    <dimen name="font_size_sign_result">26sp</dimen>
+    <dimen name="book_main_store_channels_padding_left">24dp</dimen>
+    <dimen name="book_main_store_channels_text_size">24dp</dimen>
+    <dimen name="list_item_cover_text_space">13dp</dimen>
+    <dimen name="font_size_list_item_title">20sp</dimen>
+    <dimen name="list_item_content_margin_top">20dp</dimen>
+    <dimen name="list_item_content_margin_bottom">10dp</dimen>
+    <dimen name="single_note_book_menu_width">143dp</dimen>
+    <dimen name="book_detail_cover_width">200dp</dimen>
+    <dimen name="book_detail_cover_height">267dp</dimen>
+    <dimen name="user_login_sign_tv_width">113dp</dimen>
+    <dimen name="user_login_sign_tv_height">44dp</dimen>
+    <dimen name="font_size_user_logined_name">28sp</dimen>
+    <dimen name="user_duartion_margin_top">20dp</dimen>
+    <dimen name="user_logined_tool_height">78dp</dimen>
+    <dimen name="font_size_shelf_list_title_name">20sp</dimen>
+    <dimen name="book_detail_cover_title_padding">36dp</dimen>
+    <dimen name="font_size_book_detail_book_name">24sp</dimen>
+    <dimen name="book_detail_name_ratingbar_padding">6dp</dimen>
+    <dimen name="book_detail_ratingbar_minheight">22dp</dimen>
+    <dimen name="book_detail_ratingbar_max_height">22dp</dimen>
+    <dimen name="book_detail_rating_text_padding">13dp</dimen>
+    <dimen name="book_detail_author_padding_top">10dp</dimen>
+    <dimen name="book_detail_sale_padding_top">6dp</dimen>
+    <dimen name="book_detail_tags_padding_top">6dp</dimen>
+    <dimen name="book_detail_copy_right_padding_top">3dp</dimen>
+    <dimen name="book_detail_tag_padding_left">11dp</dimen>
+    <dimen name="book_detail_button_margin_top">10dp</dimen>
+    <dimen name="book_detail_button_margin_bottom">15dp</dimen>
+    <dimen name="book_detail_btn_height">50dp</dimen>
+    <dimen name="book_detail_recommend_height">60dp</dimen>
+    <dimen name="book_detail_recommend_padding">30dp</dimen>
+    <dimen name="book_detail_recommend_icon_padding">10dp</dimen>
+    <dimen name="book_detail_recommend_padding_left">16dp</dimen>
+    <dimen name="book_detail_arrow_padding_left">13dp</dimen>
+    <dimen name="font_size_book_detail_recommend">24sp</dimen>
+    <dimen name="book_detail_chap_margin_top">30dp</dimen>
+    <dimen name="book_detail_chap_comment_height">45dp</dimen>
+    <dimen name="font_size_book_detail_chap">24sp</dimen>
+    <dimen name="font_size_book_detail_relation_tips">22sp</dimen>
+    <dimen name="book_detail_relation_book_width">129dp</dimen>
+    <dimen name="book_detail_relation_book_height">210dp</dimen>
+    <dimen name="book_detail_relation_book_name_height">200dp</dimen>
+    <dimen name="book_detail_relation_book_namepaddingtop">13dp</dimen>
+    <dimen name="font_size_book_detail_relation_name">0sp</dimen>
+    <dimen name="book_detail_relation_padding">30dp</dimen>
+    <dimen name="book_detail_padding">33dp</dimen>
+    <dimen name="book_store_main_top_search_padding_left">51dp</dimen>
+    <dimen name="store_book_bananer_item_height">133dp</dimen>
+    <dimen name="store_book_bananer_item_margin_left">33dp</dimen>
+    <dimen name="store_book_container_margin_left">31dp</dimen>
+    <dimen name="store_three_ad_item_width">130dp</dimen>
+    <dimen name="store_three_ad_item_height">57dp</dimen>
+    <dimen name="store_block_title_container_padding">27dp</dimen>
+    <dimen name="store_tag_item_font_size">24sp</dimen>
+    <dimen name="store_tag_item_width">136dp</dimen>
+    <dimen name="store_tag_item_height">60dp</dimen>
+    <dimen name="store_six_top_ads_width">220dp</dimen>
+    <dimen name="store_top_ads_font_size">24sp</dimen>
+    <dimen name="store_recommend_item_width">130dp</dimen>
+    <dimen name="store_recommend_item_height">235dp</dimen>
+    <dimen name="store_book_text_ad_item_width">290dp</dimen>
+    <dimen name="store_book_text_ad_item_spaceX">60dp</dimen>
+    <dimen name="store_three_ad_item_spaceX">26dp</dimen>
+    <dimen name="store_two_ad_item_spaceX">59dp</dimen>
+    <dimen name="store_hot_tag_item_spaceX">64dp</dimen>
+    <dimen name="store_common_block_item_spaceX">96dp</dimen>
+    <dimen name="store_past_topic_item_spaceY">0dp</dimen>
+    <dimen name="store_category_item_head_width">218dp</dimen>
+    <dimen name="store_category_item_head_height">206dp</dimen>
+    <dimen name="store_category_head_item_margin_top">28dp</dimen>
+    <dimen name="store_category_head_item_cover_width">100dp</dimen>
+    <dimen name="store_category_head_item_cover_height">133dp</dimen>
+    <dimen name="store_category_head_item_name_height">52dp</dimen>
+    <dimen name="store_category_head_item_name_padding">20dp</dimen>
+    <dimen name="store_category_head_item_height">233dp</dimen>
+    <dimen name="store_topic_detail_font_size_twenty_six">26sp</dimen>
+    <dimen name="shelf_list_edit_icon_cover_space">20dp</dimen>
+    <dimen name="shelf_container_padding">68dp</dimen>
+    <dimen name="shelf_list_padding_bottom">20dp</dimen>
+    <dimen name="shelf_list_cover_height">133dp</dimen>
+    <dimen name="shelf_list_cover_title_space">13dp</dimen>
+    <dimen name="shelf_list_item_spaceY">28dp</dimen>
+    <dimen name="shelf_list_item_spaceX">69dp</dimen>
+    <dimen name="shelf_list_text_area_spaceX">45dp</dimen>
+    <dimen name="shelf_list_item_load_area_height">40dp</dimen>
+    <dimen name="shelf_grid_item_content_font_size">16sp</dimen>
+    <dimen name="shelf_grid_item_spaceX">111dp</dimen>
+    <dimen name="shelf_grid_item_spaceY">13dp</dimen>
+    <dimen name="store_topic_detail_cover_width">124dp</dimen>
+    <dimen name="store_topic_detail_cover_height">165dp</dimen>
+    <dimen name="store_topic_detail_cover_des_padding">13dp</dimen>
+    <dimen name="store_topic_detail_name_font_size">24sp</dimen>
+    <dimen name="store_topic_detail_conten_font_size">18sp</dimen>
+    <dimen name="store_topic_detail_des_height">49dp</dimen>
+    <dimen name="store_topic_detail_des_margin_top">16dp</dimen>
+    <dimen name="store_topic_detail_author_margin_top">20dp</dimen>
+    <dimen name="store_topic_detail_divider_margin_bottom">20dp</dimen>
+    <dimen name="store_topic_detail_list_divider_height">23dp</dimen>
+    <dimen name="store_past_topic_padding_top">20dp</dimen>
+    <dimen name="store_past_topic_item_width">120dp</dimen>
+    <dimen name="store_past_topic_item_height">220dp</dimen>
+    <dimen name="store_past_topic_item_name_padding_top">13dp</dimen>
+    <dimen name="store_booklist_item_cover_width">87dp</dimen>
+    <dimen name="store_booklist_item_cover_height">116dp</dimen>
+    <dimen name="store_booklist_item_cover_des_padding">20dp</dimen>
+    <dimen name="store_book_list_content_font_size">18sp</dimen>
+    <dimen name="store_booklist_des_margin_top">8dp</dimen>
+    <dimen name="store_booklist_list_padding_left">53dp</dimen>
+    <dimen name="store_booklist_list_divider_height">25dp</dimen>
+    <dimen name="store_past_topic_item_padding_bottom">10dp</dimen>
+    <dimen name="store_past_topic_item_padding_left">20dp</dimen>
+    <dimen name="store_past_topic_item_des_margin_top">10dp</dimen>
+    <dimen name="store_past_topic_item_books_margin_top">20dp</dimen>
+    <dimen name="store_past_topic_item_des_font_size">24sp</dimen>
+    <dimen name="note_single_book_page_index_height">40dp</dimen>
+    <dimen name="dialog_note_shelf_long_click_height">781dp</dimen>
+    <dimen name="dialog_note_shelf_class_long_click_height">672dp</dimen>
+    <dimen name="font_size_shelf_dialog_item">21sp</dimen>
+    <dimen name="one_and_four_category_margin_top">16dp</dimen>
+    <dimen name="shape_thickness">2dp</dimen>
+    <dimen name="highlight_share_hor_margin">0dp</dimen>
+    <dimen name="store_tablayout_height">54dp</dimen>
+
+    <dimen name="menu_block_layout_tab_padding_left">15dp</dimen>
+    <dimen name="menu_block_layout_tab_padding_right">15dp</dimen>
+
+    <dimen name="shelf_list_item_padding_top">10dp</dimen>
+    <dimen name="shelf_list_item_padding_bottom">10dp</dimen>
+    <dimen name="shelf_list_item_padding_x">50dp</dimen>
+    <dimen name="shelf_list_item_list_text_spaceY">40dp</dimen>
+    <dimen name="shelf_list_item_list_cover_title_space">10dp</dimen>
+    <dimen name="shelf_list_item_list_cover_text_leading">20dp</dimen>
+
+
+
+    <dimen name="cloud_note_list_divider">20dp</dimen>
+    <dimen name="reader_menu_radio_button_selected_margin_left">80dp</dimen>
+    <dimen name="open_float_ball_nav_width">60dp</dimen>
+
+    <dimen name="highlight_share_scrollview_margin_top">52dp</dimen>
+    <dimen name="highlight_share_scrollview_margin_bottom">50dp</dimen>
+    <dimen name="highlight_share_scrollview_margin_left">124dp</dimen>
+    <dimen name="highlight_share_scrollview_margin_right">124dp</dimen>
+    <dimen name="highlight_share_cover_padding_top">20dp</dimen>
+    <dimen name="highlight_share_cover_size">106dp</dimen>
+
+    <dimen name="highlight_share_cover_container_margin_top">42dp</dimen>
+    <dimen name="highlight_share_cover_container_margin_left">72dp</dimen>
+    <dimen name="highlight_share_cover_container_margin_right">72dp</dimen>
+
+    <dimen name="highlight_share_action_margin_top">18dp</dimen>
+    <dimen name="highlight_share_action_margin_bottom">18dp</dimen>
+
+    <dimen name="new_word_read_alert_dialog_width">500dp</dimen>
+    <dimen name="new_word_read_alert_dialog_height">600dp</dimen>
+    <dimen name="login_type_phone_layout_width">470dp</dimen>
+    <dimen name="local_note_list_vertical_spacing">45dp</dimen>
+
+    <dimen name="charge_tips_margin_left">98dp</dimen>
+    <dimen name="cloud_book_edit_state_margin">15dp</dimen>
+
+    <dimen name="store_category_item_height">75dp</dimen>
+
+    <dimen name="main_page_indicator_height">78dp</dimen>
+
+    <dimen name="comment_content_margin_tag">40dp</dimen>
+
+    <dimen name="books_list_divider_margin">8dp</dimen>
+
+    <dimen name="cloud_select_all_book_count_width">150dp</dimen>
+
+    <dimen name="home_bottom_text_size">18sp</dimen>
+    <dimen name="capture_bg_dashed_stroke_width">1dp</dimen>
+
+    <dimen name="store_booklist_item_padding_bottom">0dp</dimen>
+
+    <!--空页面文字大小-->
+    <dimen name="layout_empty_text_size">22sp</dimen>
+
+
+   <!--全知之眼的内容-->
+    <dimen name="knowledge_content_width">586dp</dimen>
+
+    <!--用户调查Nps视图的相关属性-->
+    <dimen name="survey_item_nps_width">40dp</dimen>
+    <dimen name="survey_item_nps_height">40dp</dimen>
+    <dimen name="survey_nps_layout_height">70dp</dimen>
+    <dimen name="survey_nps_text_bg_width">1dp</dimen>
+    <dimen name="user_survey_nps_paddingLeft">8dp</dimen>
+    <dimen name="survey_nps_text_size">24sp</dimen>
+
+    <dimen name="bookshelf_list_padding_left">45dp</dimen>
+    <dimen name="bookshelf_list_padding_right">65dp</dimen>
+</resources>

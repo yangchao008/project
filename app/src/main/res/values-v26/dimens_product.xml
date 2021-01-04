@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="diagnose_tv_customer_margin_top">10dp</dimen>
+    <dimen name="diagnose_tv_result_margin_top">10dp</dimen>
+    <dimen name="diagnose_radar_margin_top">0dp</dimen>
+
+</resources>

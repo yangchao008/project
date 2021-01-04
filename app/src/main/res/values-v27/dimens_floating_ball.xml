@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="float_ball_menu_margin_left">24dp</dimen>
+    <dimen name="float_ball_menu_margin_bottom">99dp</dimen>
+    <dimen name="float_ball_window_width">485dp</dimen>
+    <dimen name="float_ball_window_height">570dp</dimen>
+
+    <dimen name="float_ball_book_item_width">120dp</dimen>
+    <dimen name="float_ball_book_item_height">160dp</dimen>
+    <dimen name="float_ball_quick_grid_vertical_spacing">35dp</dimen>
+    <dimen name="float_ball_book_grid_vertical_spacing">20dp</dimen>
+    <dimen name="float_ball_quick_grid_padding_left">24dp</dimen>
+    <dimen name="float_ball_book_grid_padding_left">40dp</dimen>
+    <dimen name="float_ball_quick_grid_padding_top">30dp</dimen>
+    <dimen name="float_ball_book_grid_padding_top">10dp</dimen>
+    <dimen name="float_ball_open_bg_line_width">1dp</dimen>
+
+    <dimen name="float_ball_boundary_margin_space">0dp</dimen>
+    <dimen name="float_ball_close_view_height">48dp</dimen>
+
+    <dimen name="float_ball_title_text_size">22sp</dimen>
+    <dimen name="float_ball_item_text_size">18sp</dimen>
+    <dimen name="float_ball_quick_tip_text_size">20sp</dimen>
+
+
+    <dimen name="float_ball_quick_item_height">70dp</dimen>
+    <dimen name="float_ball_quick_item_width">94dp</dimen>
+    <dimen name="float_ball_settings_top_icon_padding">5dp</dimen>
+
+    <dimen name="float_ball_more_icon_width">46dp</dimen>
+    <dimen name="float_ball_more_icon_space_width">5dp</dimen>
+    <dimen name="float_ball_more_layout_padding">5dp</dimen>
+    <dimen name="float_ball_more_layout_radius">28dp</dimen>
+
+    <dimen name="float_ball_custom_tip_layout_padding_bottom">47dp</dimen>
+    <dimen name="float_ball_custom_tip_text_size">16sp</dimen>
+</resources>
